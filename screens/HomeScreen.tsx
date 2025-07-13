@@ -3,19 +3,26 @@ import { useRouter } from 'expo-router';
 import { SearchBar } from '../components/SearchBar';
 import { TagSection } from '../components/TagSection';
 
-const TAGS = ['Животные', 'Цыфры', 'Одежда', 'Цвета'];
+import TAGS from '@/assets/data/tags';
 
 export const HomeScreen = () => {
   const router = useRouter();
 
   const handleSearch = (word: string) => {
     if (word) {
-      router.push(`/search/${encodeURIComponent(word)}`);
+      router.push({
+        pathname: '/search/[word]',
+        params: { word },
+        });
     }
   };
 
   const handleTagPress = (tag: string) => {
-    router.push(`/tag/${encodeURIComponent(tag)}`);
+    router.push({
+        pathname: '/tag/[tag]',
+        params: { tag },
+        });
+    // router.push(`/tag/${encodeURIComponent(tag)}`);
   };
 
   return (
