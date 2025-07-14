@@ -5943,6 +5943,9246 @@
     "ro": "punem",
     "ru": "мы кладём",
     "en": "we put"
+  },
+  {
+    "ro": "doilea",
+    "ru": "второй",
+    "en": "second"
+  },
+  {
+    "ro": "locuri",
+    "ru": "места",
+    "en": "places"
+  },
+  {
+    "ro": "muzica",
+    "ru": "музыка",
+    "en": "music"
+  },
+  {
+    "ro": "întoarcem",
+    "ru": "мы возвращаемся",
+    "en": "we return"
+  },
+  {
+    "ro": "trăiesc",
+    "ru": "я живу",
+    "en": "I live"
+  },
+  {
+    "ro": "câţi",
+    "ru": "сколько",
+    "en": "how many"
+  },
+  {
+    "ro": "nenorocit",
+    "ru": "ублюдок / несчастный",
+    "en": "bastard / miserable"
+  },
+  {
+    "ro": "you",
+    "ru": "ты",
+    "en": "you"
+  },
+  {
+    "ro": "păcat",
+    "ru": "грех",
+    "en": "sin"
+  },
+  {
+    "ro": "plină",
+    "ru": "полная",
+    "en": "full (feminine)"
+  },
+  {
+    "ro": "născut",
+    "ru": "рождённый",
+    "en": "born"
+  },
+  {
+    "ro": "trezit",
+    "ru": "проснулся",
+    "en": "woke up"
+  },
+  {
+    "ro": "semn",
+    "ru": "знак",
+    "en": "sign"
+  },
+  {
+    "ro": "simti",
+    "ru": "чувствуешь",
+    "en": "you feel"
+  },
+  {
+    "ro": "linişte",
+    "ru": "тишина",
+    "en": "silence"
+  },
+  {
+    "ro": "nord",
+    "ru": "север",
+    "en": "north"
+  },
+  {
+    "ro": "deasupra",
+    "ru": "над",
+    "en": "above"
+  },
+  {
+    "ro": "nick",
+    "ru": "Ник",
+    "en": "Nick"
+  },
+  {
+    "ro": "atinge",
+    "ru": "дотронуться",
+    "en": "to touch"
+  },
+  {
+    "ro": "minţi",
+    "ru": "лгать",
+    "en": "to lie"
+  },
+  {
+    "ro": "motivul",
+    "ru": "причина",
+    "en": "the reason"
+  },
+  {
+    "ro": "descoperit",
+    "ru": "обнаружил",
+    "en": "discovered"
+  },
+  {
+    "ro": "final",
+    "ru": "конец",
+    "en": "end"
+  },
+  {
+    "ro": "secundă",
+    "ru": "секунда",
+    "en": "second"
+  },
+  {
+    "ro": "intamplat",
+    "ru": "случилось",
+    "en": "happened"
+  },
+  {
+    "ro": "fund",
+    "ru": "дно / зад",
+    "en": "bottom / butt"
+  },
+  {
+    "ro": "minunată",
+    "ru": "прекрасная",
+    "en": "wonderful (fem.)"
+  },
+  {
+    "ro": "observat",
+    "ru": "заметил",
+    "en": "noticed"
+  },
+  {
+    "ro": "real",
+    "ru": "реальный",
+    "en": "real"
+  },
+  {
+    "ro": "intampla",
+    "ru": "происходить",
+    "en": "to happen"
+  },
+  {
+    "ro": "exemplu",
+    "ru": "пример",
+    "en": "example"
+  },
+  {
+    "ro": "întâlnim",
+    "ru": "мы встречаемся",
+    "en": "we meet"
+  },
+  {
+    "ro": "joci",
+    "ru": "играешь",
+    "en": "you play"
+  },
+  {
+    "ro": "deşi",
+    "ru": "хотя",
+    "en": "although"
+  },
+  {
+    "ro": "funcţionează",
+    "ru": "работает",
+    "en": "works"
+  },
+  {
+    "ro": "poartă",
+    "ru": "ворота / носит",
+    "en": "gate / wears"
+  },
+  {
+    "ro": "sfârşitul",
+    "ru": "конец",
+    "en": "the end"
+  },
+  {
+    "ro": "ray",
+    "ru": "Рэй",
+    "en": "Ray"
+  },
+  {
+    "ro": "bate",
+    "ru": "бьёт",
+    "en": "hits"
+  },
+  {
+    "ro": "sufletul",
+    "ru": "душа",
+    "en": "the soul"
+  },
+  {
+    "ro": "stânga",
+    "ru": "лево",
+    "en": "left"
+  },
+  {
+    "ro": "inapoi",
+    "ru": "назад",
+    "en": "back"
+  },
+  {
+    "ro": "dr",
+    "ru": "доктор / докторская степень",
+    "en": "Dr."
+  },
+  {
+    "ro": "jim",
+    "ru": "Джим",
+    "en": "Jim"
+  },
+  {
+    "ro": "iisuse",
+    "ru": "Иисус",
+    "en": "Jesus"
+  },
+  {
+    "ro": "vorbesti",
+    "ru": "ты говоришь",
+    "en": "you speak"
+  },
+  {
+    "ro": "lucra",
+    "ru": "работать",
+    "en": "to work"
+  },
+  {
+    "ro": "bar",
+    "ru": "бар",
+    "en": "bar"
+  },
+  {
+    "ro": "omori",
+    "ru": "убьёшь",
+    "en": "you kill"
+  },
+  {
+    "ro": "sala",
+    "ru": "зал",
+    "en": "hall"
+  },
+  {
+    "ro": "ajută",
+    "ru": "помогает",
+    "en": "helps"
+  },
+  {
+    "ro": "ştiai",
+    "ru": "ты знал",
+    "en": "you knew"
+  },
+  {
+    "ro": "trimit",
+    "ru": "я отправляю",
+    "en": "I send"
+  },
+  {
+    "ro": "grămadă",
+    "ru": "куча",
+    "en": "pile"
+  },
+  {
+    "ro": "morţi",
+    "ru": "мертвые",
+    "en": "dead (plural)"
+  },
+  {
+    "ro": "scot",
+    "ru": "я вытаскиваю",
+    "en": "I take out"
+  },
+  {
+    "ro": "okay",
+    "ru": "окей",
+    "en": "okay"
+  },
+  {
+    "ro": "credem",
+    "ru": "мы верим",
+    "en": "we believe"
+  },
+  {
+    "ro": "cuiva",
+    "ru": "чьего-то",
+    "en": "someone's"
+  },
+  {
+    "ro": "verificat",
+    "ru": "проверенный",
+    "en": "verified"
+  },
+  {
+    "ro": "bob",
+    "ru": "Боб",
+    "en": "Bob"
+  },
+  {
+    "ro": "pas",
+    "ru": "шаг",
+    "en": "step"
+  },
+  {
+    "ro": "um",
+    "ru": "эм",
+    "en": "um"
+  },
+  {
+    "ro": "deranjează",
+    "ru": "беспокоит",
+    "en": "disturbs"
+  },
+  {
+    "ro": "părul",
+    "ru": "волосы",
+    "en": "hair"
+  },
+  {
+    "ro": "şapte",
+    "ru": "семь",
+    "en": "seven"
+  },
+  {
+    "ro": "încercăm",
+    "ru": "мы пытаемся",
+    "en": "we try"
+  },
+  {
+    "ro": "oferit",
+    "ru": "предложил",
+    "en": "offered"
+  },
+  {
+    "ro": "bolnav",
+    "ru": "больной",
+    "en": "sick"
+  },
+  {
+    "ro": "alb",
+    "ru": "белый",
+    "en": "white"
+  },
+  {
+    "ro": "episodul",
+    "ru": "эпизод",
+    "en": "episode"
+  },
+  {
+    "ro": "uşă",
+    "ru": "дверь",
+    "en": "door"
+  },
+  {
+    "ro": "întrebi",
+    "ru": "ты спрашиваешь",
+    "en": "you ask"
+  },
+  {
+    "ro": "următorul",
+    "ru": "следующий",
+    "en": "next"
+  },
+  {
+    "ro": "pari",
+    "ru": "кажешься",
+    "en": "you seem"
+  },
+  {
+    "ro": "companie",
+    "ru": "компания",
+    "en": "company"
+  },
+  {
+    "ro": "cadou",
+    "ru": "подарок",
+    "en": "gift"
+  },
+  {
+    "ro": "nimănui",
+    "ru": "никому",
+    "en": "to no one"
+  },
+  {
+    "ro": "piciorul",
+    "ru": "нога",
+    "en": "the leg"
+  },
+  {
+    "ro": "mda",
+    "ru": "мда",
+    "en": "meh / hmm"
+  },
+  {
+    "ro": "lăsăm",
+    "ru": "мы оставим",
+    "en": "we leave"
+  },
+  {
+    "ro": "magazin",
+    "ru": "магазин",
+    "en": "store"
+  },
+  {
+    "ro": "nicăieri",
+    "ru": "нигде",
+    "en": "nowhere"
+  },
+  {
+    "ro": "port",
+    "ru": "порт / ношу",
+    "en": "port / I wear"
+  },
+  {
+    "ro": "iubire",
+    "ru": "любовь",
+    "en": "love"
+  },
+  {
+    "ro": "mulţime",
+    "ru": "толпа",
+    "en": "crowd"
+  },
+  {
+    "ro": "legat",
+    "ru": "связанный",
+    "en": "tied / related"
+  },
+  {
+    "ro": "glumeşti",
+    "ru": "шутишь",
+    "en": "you joke"
+  },
+  {
+    "ro": "salva",
+    "ru": "спасти",
+    "en": "to save"
+  },
+  {
+    "ro": "sud",
+    "ru": "юг",
+    "en": "south"
+  },
+  {
+    "ro": "sînt",
+    "ru": "являюсь",
+    "en": "am"
+  },
+  {
+    "ro": "bill",
+    "ru": "Билл",
+    "en": "Bill"
+  },
+  {
+    "ro": "jane",
+    "ru": "Джейн",
+    "en": "Jane"
+  },
+  {
+    "ro": "mergeţi",
+    "ru": "вы идёте",
+    "en": "you go (plural)"
+  },
+  {
+    "ro": "hainele",
+    "ru": "одежда",
+    "en": "the clothes"
+  },
+  {
+    "ro": "tânăr",
+    "ru": "молодой",
+    "en": "young"
+  },
+  {
+    "ro": "conduc",
+    "ru": "я веду / я вожу",
+    "en": "I lead / I drive"
+  },
+  {
+    "ro": "depinde",
+    "ru": "зависит",
+    "en": "depends"
+  },
+  {
+    "ro": "lungă",
+    "ru": "длинная",
+    "en": "long (fem.)"
+  },
+  {
+    "ro": "puteti",
+    "ru": "вы можете",
+    "en": "you can (plural)"
+  },
+  {
+    "ro": "grea",
+    "ru": "тяжёлая",
+    "en": "heavy"
+  },
+  {
+    "ro": "tommy",
+    "ru": "Томми",
+    "en": "Tommy"
+  },
+  {
+    "ro": "oriunde",
+    "ru": "везде",
+    "en": "anywhere"
+  },
+  {
+    "ro": "viitorul",
+    "ru": "будущее",
+    "en": "the future"
+  },
+  {
+    "ro": "vis",
+    "ru": "сон / мечта",
+    "en": "dream"
+  },
+  {
+    "ro": "capăt",
+    "ru": "конец",
+    "en": "end"
+  },
+  {
+    "ro": "zilele",
+    "ru": "дни",
+    "en": "the days"
+  },
+  {
+    "ro": "singuri",
+    "ru": "одни / сами",
+    "en": "alone / by themselves"
+  },
+  {
+    "ro": "don",
+    "ru": "Дон",
+    "en": "Don"
+  },
+  {
+    "ro": "doreşti",
+    "ru": "ты хочешь",
+    "en": "you wish"
+  },
+  {
+    "ro": "usor",
+    "ru": "лёгкий",
+    "en": "easy"
+  },
+  {
+    "ro": "arestat",
+    "ru": "арестован",
+    "en": "arrested"
+  },
+  {
+    "ro": "primesc",
+    "ru": "я получаю",
+    "en": "I receive"
+  },
+  {
+    "ro": "iubeşti",
+    "ru": "ты любишь",
+    "en": "you love"
+  },
+  {
+    "ro": "strada",
+    "ru": "улица",
+    "en": "street"
+  },
+  {
+    "ro": "idiot",
+    "ru": "идиот",
+    "en": "idiot"
+  },
+  {
+    "ro": "aveai",
+    "ru": "у тебя было",
+    "en": "you had"
+  },
+  {
+    "ro": "richard",
+    "ru": "Ричард",
+    "en": "Richard"
+  },
+  {
+    "ro": "grup",
+    "ru": "группа",
+    "en": "group"
+  },
+  {
+    "ro": "ţară",
+    "ru": "страна",
+    "en": "country"
+  },
+  {
+    "ro": "majoritatea",
+    "ru": "большинство",
+    "en": "majority"
+  },
+  {
+    "ro": "multi",
+    "ru": "многие",
+    "en": "many"
+  },
+  {
+    "ro": "respect",
+    "ru": "уважение",
+    "en": "respect"
+  },
+  {
+    "ro": "adevărată",
+    "ru": "настоящая",
+    "en": "true (feminine)"
+  },
+  {
+    "ro": "trăi",
+    "ru": "жить",
+    "en": "to live"
+  },
+  {
+    "ro": "fetelor",
+    "ru": "девочки",
+    "en": "girls"
+  },
+  {
+    "ro": "chestie",
+    "ru": "вещь / штука",
+    "en": "thing"
+  },
+  {
+    "ro": "suni",
+    "ru": "ты звонишь",
+    "en": "you call"
+  },
+  {
+    "ro": "alţii",
+    "ru": "другие",
+    "en": "others"
+  },
+  {
+    "ro": "aştepţi",
+    "ru": "ты ждёшь",
+    "en": "you wait"
+  },
+  {
+    "ro": "billy",
+    "ru": "Билли",
+    "en": "Billy"
+  },
+  {
+    "ro": "apartamentul",
+    "ru": "квартира",
+    "en": "apartment"
+  },
+  {
+    "ro": "metri",
+    "ru": "метры",
+    "en": "meters"
+  },
+  {
+    "ro": "căpitanul",
+    "ru": "капитан",
+    "en": "captain"
+  },
+  {
+    "ro": "chemat",
+    "ru": "позванный",
+    "en": "called"
+  },
+  {
+    "ro": "sezonul",
+    "ru": "сезон",
+    "en": "season"
+  },
+  {
+    "ro": "interesează",
+    "ru": "интересует",
+    "en": "interests"
+  },
+  {
+    "ro": "pariu",
+    "ru": "пари",
+    "en": "bet"
+  },
+  {
+    "ro": "joacă",
+    "ru": "играет",
+    "en": "plays"
+  },
+  {
+    "ro": "oare",
+    "ru": "разве / интересно",
+    "en": "I wonder / whether"
+  },
+  {
+    "ro": "faca",
+    "ru": "сделает",
+    "en": "does/makes"
+  },
+  {
+    "ro": "recunosc",
+    "ru": "признаю",
+    "en": "I admit / I recognize"
+  },
+  {
+    "ro": "armele",
+    "ru": "оружие",
+    "en": "weapons"
+  },
+  {
+    "ro": "pierzi",
+    "ru": "ты теряешь",
+    "en": "you lose"
+  },
+  {
+    "ro": "încoace",
+    "ru": "сюда",
+    "en": "this way"
+  },
+  {
+    "ro": "prietenă",
+    "ru": "подруга",
+    "en": "girlfriend / female friend"
+  },
+  {
+    "ro": "cheia",
+    "ru": "ключ",
+    "en": "key"
+  },
+  {
+    "ro": "jake",
+    "ru": "Джейк",
+    "en": "Jake"
+  },
+  {
+    "ro": "număr",
+    "ru": "номер",
+    "en": "number"
+  },
+  {
+    "ro": "trag",
+    "ru": "я стреляю / тяну",
+    "en": "I shoot / pull"
+  },
+  {
+    "ro": "alege",
+    "ru": "выбирает",
+    "en": "chooses"
+  },
+  {
+    "ro": "celelalte",
+    "ru": "другие",
+    "en": "the others"
+  },
+  {
+    "ro": "câteodată",
+    "ru": "иногда",
+    "en": "sometimes"
+  },
+  {
+    "ro": "mijlocul",
+    "ru": "середина",
+    "en": "middle"
+  },
+  {
+    "ro": "compania",
+    "ru": "компания",
+    "en": "company"
+  },
+  {
+    "ro": "criminal",
+    "ru": "преступник",
+    "en": "criminal"
+  },
+  {
+    "ro": "detectiv",
+    "ru": "детектив",
+    "en": "detective"
+  },
+  {
+    "ro": "vorbă",
+    "ru": "разговор / слово",
+    "en": "talk / word"
+  },
+  {
+    "ro": "securitate",
+    "ru": "безопасность",
+    "en": "security"
+  },
+  {
+    "ro": "mutat",
+    "ru": "переехал",
+    "en": "moved"
+  },
+  {
+    "ro": "ducem",
+    "ru": "мы несем",
+    "en": "we carry"
+  },
+  {
+    "ro": "veşti",
+    "ru": "новости",
+    "en": "news"
+  },
+  {
+    "ro": "minţit",
+    "ru": "солгал",
+    "en": "lied"
+  },
+  {
+    "ro": "adresa",
+    "ru": "адрес",
+    "en": "address"
+  },
+  {
+    "ro": "paris",
+    "ru": "Париж",
+    "en": "Paris"
+  },
+  {
+    "ro": "punctul",
+    "ru": "точка",
+    "en": "point"
+  },
+  {
+    "ro": "căutat",
+    "ru": "искал",
+    "en": "sought"
+  },
+  {
+    "ro": "rupt",
+    "ru": "порванный",
+    "en": "torn"
+  },
+  {
+    "ro": "mişcă",
+    "ru": "двигается",
+    "en": "moves"
+  },
+  {
+    "ro": "jucat",
+    "ru": "играл",
+    "en": "played"
+  },
+  {
+    "ro": "numesc",
+    "ru": "называю",
+    "en": "I name"
+  },
+  {
+    "ro": "asteapta",
+    "ru": "ждёт",
+    "en": "waits"
+  },
+  {
+    "ro": "frumoase",
+    "ru": "красивые",
+    "en": "beautiful (plural)"
+  },
+  {
+    "ro": "părăsit",
+    "ru": "покинул",
+    "en": "left"
+  },
+  {
+    "ro": "bărbaţi",
+    "ru": "мужчины",
+    "en": "men"
+  },
+  {
+    "ro": "ascunde",
+    "ru": "прячет",
+    "en": "hides"
+  },
+  {
+    "ro": "sosit",
+    "ru": "прибыл",
+    "en": "arrived"
+  },
+  {
+    "ro": "johnny",
+    "ru": "Джонни",
+    "en": "Johnny"
+  },
+  {
+    "ro": "faceti",
+    "ru": "вы делаете",
+    "en": "you do (plural)"
+  },
+  {
+    "ro": "bătut",
+    "ru": "побит",
+    "en": "beaten"
+  },
+  {
+    "ro": "purta",
+    "ru": "носить",
+    "en": "to wear"
+  },
+  {
+    "ro": "clasa",
+    "ru": "класс",
+    "en": "class"
+  },
+  {
+    "ro": "adica",
+    "ru": "то есть",
+    "en": "meaning"
+  },
+  {
+    "ro": "misiune",
+    "ru": "миссия",
+    "en": "mission"
+  },
+  {
+    "ro": "club",
+    "ru": "клуб",
+    "en": "club"
+  },
+  {
+    "ro": "armata",
+    "ru": "армия",
+    "en": "army"
+  },
+  {
+    "ro": "usa",
+    "ru": "дверь",
+    "en": "door"
+  },
+  {
+    "ro": "surpriză",
+    "ru": "сюрприз",
+    "en": "surprise"
+  },
+  {
+    "ro": "făcea",
+    "ru": "делал",
+    "en": "was doing"
+  },
+  {
+    "ro": "asigur",
+    "ru": "гарантирую",
+    "en": "I assure"
+  },
+  {
+    "ro": "angajat",
+    "ru": "сотрудник",
+    "en": "employee"
+  },
+  {
+    "ro": "glumă",
+    "ru": "шутка",
+    "en": "joke"
+  },
+  {
+    "ro": "părere",
+    "ru": "мнение",
+    "en": "opinion"
+  },
+  {
+    "ro": "ambele",
+    "ru": "обе",
+    "en": "both"
+  },
+  {
+    "ro": "prostii",
+    "ru": "глупости",
+    "en": "nonsense"
+  },
+  {
+    "ro": "urmează",
+    "ru": "следует",
+    "en": "follows"
+  },
+  {
+    "ro": "iese",
+    "ru": "выходит",
+    "en": "goes out"
+  },
+  {
+    "ro": "afacerea",
+    "ru": "дело / бизнес",
+    "en": "the business"
+  },
+  {
+    "ro": "ajungă",
+    "ru": "доберётся",
+    "en": "will reach"
+  },
+  {
+    "ro": "urât",
+    "ru": "уродливый / некрасивый",
+    "en": "ugly"
+  },
+  {
+    "ro": "trecem",
+    "ru": "мы проходим",
+    "en": "we pass"
+  },
+  {
+    "ro": "marea",
+    "ru": "море",
+    "en": "the sea"
+  },
+  {
+    "ro": "importantă",
+    "ru": "важная",
+    "en": "important (feminine)"
+  },
+  {
+    "ro": "ni",
+    "ru": "нам",
+    "en": "to us"
+  },
+  {
+    "ro": "ceai",
+    "ru": "чай",
+    "en": "tea"
+  },
+  {
+    "ro": "of",
+    "ru": "ох",
+    "en": "oh"
+  },
+  {
+    "ro": "habar",
+    "ru": "понятия",
+    "en": "idea / clue"
+  },
+  {
+    "ro": "steve",
+    "ru": "Стив",
+    "en": "Steve"
+  },
+  {
+    "ro": "aşteptăm",
+    "ru": "мы ждём",
+    "en": "we wait"
+  },
+  {
+    "ro": "distractiv",
+    "ru": "весёлый",
+    "en": "fun"
+  },
+  {
+    "ro": "des",
+    "ru": "часто",
+    "en": "often"
+  },
+  {
+    "ro": "încetează",
+    "ru": "прекращает",
+    "en": "stops"
+  },
+  {
+    "ro": "curat",
+    "ru": "чистый",
+    "en": "clean"
+  },
+  {
+    "ro": "porţi",
+    "ru": "ворота / носишь",
+    "en": "gates / you wear"
+  },
+  {
+    "ro": "aşteptaţi",
+    "ru": "вы ждёте",
+    "en": "you wait (plural)"
+  },
+  {
+    "ro": "beau",
+    "ru": "пью",
+    "en": "I drink"
+  },
+  {
+    "ro": "cal",
+    "ru": "лошадь",
+    "en": "horse"
+  },
+  {
+    "ro": "stradă",
+    "ru": "улица",
+    "en": "street"
+  },
+  {
+    "ro": "plătesc",
+    "ru": "плачу",
+    "en": "I pay"
+  },
+  {
+    "ro": "will",
+    "ru": "Уилл",
+    "en": "Will"
+  },
+  {
+    "ro": "intri",
+    "ru": "ты входишь",
+    "en": "you enter"
+  },
+  {
+    "ro": "iată",
+    "ru": "вот",
+    "en": "here is"
+  },
+  {
+    "ro": "întârziat",
+    "ru": "опоздал",
+    "en": "late"
+  },
+  {
+    "ro": "ţara",
+    "ru": "страна",
+    "en": "country"
+  },
+  {
+    "ro": "mami",
+    "ru": "мама",
+    "en": "mommy"
+  },
+  {
+    "ro": "apare",
+    "ru": "появляется",
+    "en": "appears"
+  },
+  {
+    "ro": "mişto",
+    "ru": "круто",
+    "en": "cool"
+  },
+  {
+    "ro": "juca",
+    "ru": "играть",
+    "en": "to play"
+  },
+  {
+    "ro": "scuzaţi",
+    "ru": "извините",
+    "en": "excuse me"
+  },
+  {
+    "ro": "distruge",
+    "ru": "разрушает",
+    "en": "destroys"
+  },
+  {
+    "ro": "aşteptat",
+    "ru": "ждал",
+    "en": "waited"
+  },
+  {
+    "ro": "km",
+    "ru": "километр",
+    "en": "km"
+  },
+  {
+    "ro": "sergent",
+    "ru": "сержант",
+    "en": "sergeant"
+  },
+  {
+    "ro": "bobby",
+    "ru": "Бобби",
+    "en": "Bobby"
+  },
+  {
+    "ro": "mănâncă",
+    "ru": "ест",
+    "en": "eats"
+  },
+  {
+    "ro": "onoare",
+    "ru": "честь",
+    "en": "honor"
+  },
+  {
+    "ro": "ala",
+    "ru": "тот",
+    "en": "that one"
+  },
+  {
+    "ro": "daţi",
+    "ru": "дайте",
+    "en": "give (plural)"
+  },
+  {
+    "ro": "iubeşte",
+    "ru": "любит",
+    "en": "loves"
+  },
+  {
+    "ro": "baltă",
+    "ru": "лужа",
+    "en": "puddle"
+  },
+  {
+    "ro": "nebună",
+    "ru": "сумасшедшая",
+    "en": "crazy (fem.)"
+  },
+  {
+    "ro": "ryan",
+    "ru": "Райан",
+    "en": "Ryan"
+  },
+  {
+    "ro": "regina",
+    "ru": "королева",
+    "en": "queen"
+  },
+  {
+    "ro": "filmul",
+    "ru": "фильм",
+    "en": "the movie"
+  },
+  {
+    "ro": "cont",
+    "ru": "счёт",
+    "en": "account"
+  },
+  {
+    "ro": "mulțumesc",
+    "ru": "спасибо",
+    "en": "thank you"
+  },
+  {
+    "ro": "rândul",
+    "ru": "очередь",
+    "en": "turn / row"
+  },
+  {
+    "ro": "căutăm",
+    "ru": "мы ищем",
+    "en": "we search"
+  },
+  {
+    "ro": "dovezi",
+    "ru": "доказательства",
+    "en": "evidence"
+  },
+  {
+    "ro": "părinte",
+    "ru": "родитель",
+    "en": "parent"
+  },
+  {
+    "ro": "mulţumim",
+    "ru": "благодарим",
+    "en": "we thank"
+  },
+  {
+    "ro": "continuare",
+    "ru": "продолжение",
+    "en": "continuation"
+  },
+  {
+    "ro": "carne",
+    "ru": "мясо",
+    "en": "meat"
+  },
+  {
+    "ro": "întâlnesc",
+    "ru": "встречаюсь",
+    "en": "I meet"
+  },
+  {
+    "ro": "puternică",
+    "ru": "сильная",
+    "en": "strong (fem.)"
+  },
+  {
+    "ro": "opreşte",
+    "ru": "останавливает",
+    "en": "stops"
+  },
+  {
+    "ro": "dorm",
+    "ru": "сплю",
+    "en": "I sleep"
+  },
+  {
+    "ro": "american",
+    "ru": "американец",
+    "en": "American"
+  },
+  {
+    "ro": "mişca",
+    "ru": "двигать",
+    "en": "to move"
+  },
+  {
+    "ro": "placă",
+    "ru": "доска / пластина",
+    "en": "board / plate"
+  },
+  {
+    "ro": "ţinut",
+    "ru": "держал / регион",
+    "en": "held / region"
+  },
+  {
+    "ro": "veche",
+    "ru": "старая",
+    "en": "old (fem.)"
+  },
+  {
+    "ro": "haine",
+    "ru": "одежда",
+    "en": "clothes"
+  },
+  {
+    "ro": "centrul",
+    "ru": "центр",
+    "en": "the center"
+  },
+  {
+    "ro": "scurt",
+    "ru": "короткий",
+    "en": "short"
+  },
+  {
+    "ro": "vârsta",
+    "ru": "возраст",
+    "en": "age"
+  },
+  {
+    "ro": "aflăm",
+    "ru": "мы узнаем",
+    "en": "we find out"
+  },
+  {
+    "ro": "bunica",
+    "ru": "бабушка",
+    "en": "grandmother"
+  },
+  {
+    "ro": "devin",
+    "ru": "я становлюсь",
+    "en": "I become"
+  },
+  {
+    "ro": "dura",
+    "ru": "длиться",
+    "en": "to last"
+  },
+  {
+    "ro": "căsătorit",
+    "ru": "женат / замужем",
+    "en": "married"
+  },
+  {
+    "ro": "zonă",
+    "ru": "зона",
+    "en": "zone"
+  },
+  {
+    "ro": "domnişoară",
+    "ru": "девушка / барышня",
+    "en": "miss / young lady"
+  },
+  {
+    "ro": "oferi",
+    "ru": "предложить",
+    "en": "to offer"
+  },
+  {
+    "ro": "puţină",
+    "ru": "немного / малая",
+    "en": "little / few (fem.)"
+  },
+  {
+    "ro": "veti",
+    "ru": "вы будете",
+    "en": "you will (plural)"
+  },
+  {
+    "ro": "macar",
+    "ru": "хотя бы",
+    "en": "at least"
+  },
+  {
+    "ro": "dulce",
+    "ru": "сладкий",
+    "en": "sweet"
+  },
+  {
+    "ro": "controlul",
+    "ru": "контроль",
+    "en": "control"
+  },
+  {
+    "ro": "soldat",
+    "ru": "солдат",
+    "en": "soldier"
+  },
+  {
+    "ro": "gândi",
+    "ru": "думать",
+    "en": "to think"
+  },
+  {
+    "ro": "rege",
+    "ru": "король",
+    "en": "king"
+  },
+  {
+    "ro": "baieti",
+    "ru": "мальчики",
+    "en": "boys"
+  },
+  {
+    "ro": "dra",
+    "ru": "г-жа / мисс",
+    "en": "Ms."
+  },
+  {
+    "ro": "scape",
+    "ru": "избавиться",
+    "en": "to escape"
+  },
+  {
+    "ro": "următoarea",
+    "ru": "следующая",
+    "en": "next (fem.)"
+  },
+  {
+    "ro": "durere",
+    "ru": "боль",
+    "en": "pain"
+  },
+  {
+    "ro": "zbor",
+    "ru": "полет",
+    "en": "flight"
+  },
+  {
+    "ro": "numeşte",
+    "ru": "называется",
+    "en": "is called"
+  },
+  {
+    "ro": "propriul",
+    "ru": "собственный",
+    "en": "own"
+  },
+  {
+    "ro": "total",
+    "ru": "итого / полный",
+    "en": "total"
+  },
+  {
+    "ro": "teren",
+    "ru": "участок / поле",
+    "en": "land / field"
+  },
+  {
+    "ro": "eddie",
+    "ru": "Эдди",
+    "en": "Eddie"
+  },
+  {
+    "ro": "formă",
+    "ru": "форма",
+    "en": "form"
+  },
+  {
+    "ro": "frumoasa",
+    "ru": "красивая",
+    "en": "beautiful"
+  },
+  {
+    "ro": "gol",
+    "ru": "пустой",
+    "en": "empty"
+  },
+  {
+    "ro": "descurc",
+    "ru": "разберусь",
+    "en": "I manage"
+  },
+  {
+    "ro": "aveau",
+    "ru": "у них было",
+    "en": "they had"
+  },
+  {
+    "ro": "prostie",
+    "ru": "глупость",
+    "en": "nonsense"
+  },
+  {
+    "ro": "sute",
+    "ru": "сотни",
+    "en": "hundreds"
+  },
+  {
+    "ro": "vocea",
+    "ru": "голос",
+    "en": "voice"
+  },
+  {
+    "ro": "nunta",
+    "ru": "свадьба",
+    "en": "wedding"
+  },
+  {
+    "ro": "energie",
+    "ru": "энергия",
+    "en": "energy"
+  },
+  {
+    "ro": "afli",
+    "ru": "ты узнаешь",
+    "en": "you find out"
+  },
+  {
+    "ro": "londra",
+    "ru": "Лондон",
+    "en": "London"
+  },
+  {
+    "ro": "ha",
+    "ru": "ха",
+    "en": "ha"
+  },
+  {
+    "ro": "apel",
+    "ru": "звонок",
+    "en": "call"
+  },
+  {
+    "ro": "invitat",
+    "ru": "гость / приглашённый",
+    "en": "guest / invited"
+  },
+  {
+    "ro": "opresc",
+    "ru": "я останавливаю",
+    "en": "I stop"
+  },
+  {
+    "ro": "lăsaţi",
+    "ru": "оставьте",
+    "en": "leave (plural)"
+  },
+  {
+    "ro": "apropie",
+    "ru": "приближается",
+    "en": "approaches"
+  },
+  {
+    "ro": "dejun",
+    "ru": "завтрак",
+    "en": "breakfast"
+  },
+  {
+    "ro": "linia",
+    "ru": "линия",
+    "en": "line"
+  },
+  {
+    "ro": "mica",
+    "ru": "маленькая",
+    "en": "small (fem.)"
+  },
+  {
+    "ro": "ratat",
+    "ru": "упущенный / провалившийся",
+    "en": "missed / failed"
+  },
+  {
+    "ro": "şcoala",
+    "ru": "школа",
+    "en": "school"
+  },
+  {
+    "ro": "pământul",
+    "ru": "земля",
+    "en": "earth"
+  },
+  {
+    "ro": "convins",
+    "ru": "убеждён",
+    "en": "convinced"
+  },
+  {
+    "ro": "problemele",
+    "ru": "проблемы",
+    "en": "problems"
+  },
+  {
+    "ro": "ducă",
+    "ru": "пусть идёт",
+    "en": "let (him/her) go"
+  },
+  {
+    "ro": "groaznic",
+    "ru": "ужасный",
+    "en": "terrible"
+  },
+  {
+    "ro": "radio",
+    "ru": "радио",
+    "en": "radio"
+  },
+  {
+    "ro": "soţie",
+    "ru": "жена",
+    "en": "wife"
+  },
+  {
+    "ro": "cutie",
+    "ru": "коробка",
+    "en": "box"
+  },
+  {
+    "ro": "dificil",
+    "ru": "трудный",
+    "en": "difficult"
+  },
+  {
+    "ro": "săturat",
+    "ru": "насытился / устал",
+    "en": "fed up"
+  },
+  {
+    "ro": "discutăm",
+    "ru": "мы обсуждаем",
+    "en": "we discuss"
+  },
+  {
+    "ro": "uimitor",
+    "ru": "удивительный",
+    "en": "amazing"
+  },
+  {
+    "ro": "obosit",
+    "ru": "уставший",
+    "en": "tired"
+  },
+  {
+    "ro": "termin",
+    "ru": "я заканчиваю",
+    "en": "I finish"
+  },
+  {
+    "ro": "răspunsul",
+    "ru": "ответ",
+    "en": "the answer"
+  },
+  {
+    "ro": "date",
+    "ru": "данные",
+    "en": "data"
+  },
+  {
+    "ro": "spectacol",
+    "ru": "спектакль",
+    "en": "show"
+  },
+  {
+    "ro": "condus",
+    "ru": "вел / водил",
+    "en": "drove / led"
+  },
+  {
+    "ro": "focul",
+    "ru": "огонь",
+    "en": "the fire"
+  },
+  {
+    "ro": "vinovat",
+    "ru": "виновен",
+    "en": "guilty"
+  },
+  {
+    "ro": "ceasul",
+    "ru": "часы",
+    "en": "the clock"
+  },
+  {
+    "ro": "perfectă",
+    "ru": "идеальная",
+    "en": "perfect (fem.)"
+  },
+  {
+    "ro": "dans",
+    "ru": "танец",
+    "en": "dance"
+  },
+  {
+    "ro": "lung",
+    "ru": "длинный",
+    "en": "long"
+  },
+  {
+    "ro": "superi",
+    "ru": "ты обижаешься",
+    "en": "you get upset"
+  },
+  {
+    "ro": "pauză",
+    "ru": "перерыв",
+    "en": "break"
+  },
+  {
+    "ro": "aşadar",
+    "ru": "итак / следовательно",
+    "en": "so / therefore"
+  },
+  {
+    "ro": "bătrân",
+    "ru": "старик",
+    "en": "old man"
+  },
+  {
+    "ro": "legea",
+    "ru": "закон",
+    "en": "the law"
+  },
+  {
+    "ro": "marele",
+    "ru": "великий",
+    "en": "the great"
+  },
+  {
+    "ro": "mâncarea",
+    "ru": "еда",
+    "en": "the food"
+  },
+  {
+    "ro": "victima",
+    "ru": "жертва",
+    "en": "victim"
+  },
+  {
+    "ro": "public",
+    "ru": "публика / общественность",
+    "en": "public"
+  },
+  {
+    "ro": "daniel",
+    "ru": "Даниэль",
+    "en": "Daniel"
+  },
+  {
+    "ro": "ruşine",
+    "ru": "стыд",
+    "en": "shame"
+  },
+  {
+    "ro": "excelent",
+    "ru": "отлично",
+    "en": "excellent"
+  },
+  {
+    "ro": "vorbind",
+    "ru": "говоря",
+    "en": "speaking"
+  },
+  {
+    "ro": "necesar",
+    "ru": "необходимо",
+    "en": "necessary"
+  },
+  {
+    "ro": "uitaţi",
+    "ru": "посмотрите / вы забыли",
+    "en": "look / you forgot"
+  },
+  {
+    "ro": "limba",
+    "ru": "язык",
+    "en": "language"
+  },
+  {
+    "ro": "dră",
+    "ru": "г-жа",
+    "en": "Ms."
+  },
+  {
+    "ro": "schimbă",
+    "ru": "меняет",
+    "en": "changes"
+  },
+  {
+    "ro": "milion",
+    "ru": "миллион",
+    "en": "million"
+  },
+  {
+    "ro": "războiul",
+    "ru": "война",
+    "en": "the war"
+  },
+  {
+    "ro": "mişcare",
+    "ru": "движение",
+    "en": "movement"
+  },
+  {
+    "ro": "fbi",
+    "ru": "ФБР",
+    "en": "FBI"
+  },
+  {
+    "ro": "lumină",
+    "ru": "свет",
+    "en": "light"
+  },
+  {
+    "ro": "norocos",
+    "ru": "везучий",
+    "en": "lucky"
+  },
+  {
+    "ro": "robert",
+    "ru": "Роберт",
+    "en": "Robert"
+  },
+  {
+    "ro": "urmărit",
+    "ru": "преследуемый",
+    "en": "followed / pursued"
+  },
+  {
+    "ro": "cheile",
+    "ru": "ключи",
+    "en": "the keys"
+  },
+  {
+    "ro": "ridicol",
+    "ru": "нелепый",
+    "en": "ridiculous"
+  },
+  {
+    "ro": "mark",
+    "ru": "Марк",
+    "en": "Mark"
+  },
+  {
+    "ro": "vi",
+    "ru": "ты приходишь / ты живёшь",
+    "en": "you come / you live"
+  },
+  {
+    "ro": "explic",
+    "ru": "я объясняю",
+    "en": "I explain"
+  },
+  {
+    "ro": "mâini",
+    "ru": "руки",
+    "en": "hands"
+  },
+  {
+    "ro": "iasă",
+    "ru": "выходит",
+    "en": "comes out"
+  },
+  {
+    "ro": "câştiga",
+    "ru": "выигрывать",
+    "en": "to win"
+  },
+  {
+    "ro": "găsească",
+    "ru": "найдёт",
+    "en": "will find"
+  },
+  {
+    "ro": "datoria",
+    "ru": "долг",
+    "en": "duty / debt"
+  },
+  {
+    "ro": "unor",
+    "ru": "некоторых",
+    "en": "of some"
+  },
+  {
+    "ro": "motive",
+    "ru": "причины",
+    "en": "reasons"
+  },
+  {
+    "ro": "ascult",
+    "ru": "я слушаю",
+    "en": "I listen"
+  },
+  {
+    "ro": "inimă",
+    "ru": "сердце",
+    "en": "heart"
+  },
+  {
+    "ro": "chris",
+    "ru": "Крис",
+    "en": "Chris"
+  },
+  {
+    "ro": "sistem",
+    "ru": "система",
+    "en": "system"
+  },
+  {
+    "ro": "favoare",
+    "ru": "одолжение",
+    "en": "favor"
+  },
+  {
+    "ro": "scrisoare",
+    "ru": "письмо",
+    "en": "letter"
+  },
+  {
+    "ro": "apartament",
+    "ru": "квартира",
+    "en": "apartment"
+  },
+  {
+    "ro": "proces",
+    "ru": "процесс / суд",
+    "en": "trial / process"
+  },
+  {
+    "ro": "rugat",
+    "ru": "попросил",
+    "en": "asked"
+  },
+  {
+    "ro": "frica",
+    "ru": "страх",
+    "en": "fear"
+  },
+  {
+    "ro": "inseamna",
+    "ru": "означает",
+    "en": "means"
+  },
+  {
+    "ro": "siguranta",
+    "ru": "безопасность",
+    "en": "safety"
+  },
+  {
+    "ro": "dormit",
+    "ru": "спал",
+    "en": "slept"
+  },
+  {
+    "ro": "câinele",
+    "ru": "собака",
+    "en": "the dog"
+  },
+  {
+    "ro": "charles",
+    "ru": "Чарльз",
+    "en": "Charles"
+  },
+  {
+    "ro": "dincolo",
+    "ru": "по ту сторону",
+    "en": "beyond"
+  },
+  {
+    "ro": "avionul",
+    "ru": "самолёт",
+    "en": "the airplane"
+  },
+  {
+    "ro": "având",
+    "ru": "имея",
+    "en": "having"
+  },
+  {
+    "ro": "oras",
+    "ru": "город",
+    "en": "city"
+  },
+  {
+    "ro": "sotia",
+    "ru": "жена",
+    "en": "wife"
+  },
+  {
+    "ro": "crimei",
+    "ru": "преступления",
+    "en": "of the crime"
+  },
+  {
+    "ro": "plimbare",
+    "ru": "прогулка",
+    "en": "walk"
+  },
+  {
+    "ro": "casei",
+    "ru": "дома",
+    "en": "of the house"
+  },
+  {
+    "ro": "cald",
+    "ru": "тёплый",
+    "en": "warm"
+  },
+  {
+    "ro": "obţine",
+    "ru": "получить",
+    "en": "to obtain"
+  },
+  {
+    "ro": "mănânci",
+    "ru": "ты ешь",
+    "en": "you eat"
+  },
+  {
+    "ro": "it",
+    "ru": "это",
+    "en": "it"
+  },
+  {
+    "ro": "morţii",
+    "ru": "мертвецов",
+    "en": "of the dead"
+  },
+  {
+    "ro": "pună",
+    "ru": "пусть поставит / пусть положит",
+    "en": "let (him/her) put"
+  },
+  {
+    "ro": "adam",
+    "ru": "Адам",
+    "en": "Adam"
+  },
+  {
+    "ro": "apreciez",
+    "ru": "я ценю",
+    "en": "I appreciate"
+  },
+  {
+    "ro": "tipii",
+    "ru": "парни",
+    "en": "the guys"
+  },
+  {
+    "ro": "ofiţer",
+    "ru": "офицер",
+    "en": "officer"
+  },
+  {
+    "ro": "verific",
+    "ru": "я проверяю",
+    "en": "I check"
+  },
+  {
+    "ro": "miroase",
+    "ru": "пахнет",
+    "en": "smells"
+  },
+  {
+    "ro": "aşteptam",
+    "ru": "я ждал",
+    "en": "I was waiting"
+  },
+  {
+    "ro": "scriu",
+    "ru": "я пишу",
+    "en": "I write"
+  },
+  {
+    "ro": "acces",
+    "ru": "доступ",
+    "en": "access"
+  },
+  {
+    "ro": "secrete",
+    "ru": "секреты",
+    "en": "secrets"
+  },
+  {
+    "ro": "arătat",
+    "ru": "показал",
+    "en": "shown"
+  },
+  {
+    "ro": "rezolva",
+    "ru": "решить",
+    "en": "to solve"
+  },
+  {
+    "ro": "iesi",
+    "ru": "выйти",
+    "en": "to exit"
+  },
+  {
+    "ro": "somn",
+    "ru": "сон",
+    "en": "sleep"
+  },
+  {
+    "ro": "lase",
+    "ru": "пусть оставит",
+    "en": "let (him/her) leave"
+  },
+  {
+    "ro": "începi",
+    "ru": "ты начинаешь",
+    "en": "you start"
+  },
+  {
+    "ro": "păr",
+    "ru": "волосы",
+    "en": "hair"
+  },
+  {
+    "ro": "verde",
+    "ru": "зелёный",
+    "en": "green"
+  },
+  {
+    "ro": "doriţi",
+    "ru": "вы хотите",
+    "en": "you want (plural, polite)"
+  },
+  {
+    "ro": "plăti",
+    "ru": "платить",
+    "en": "to pay"
+  },
+  {
+    "ro": "dan",
+    "ru": "Дэн",
+    "en": "Dan"
+  },
+  {
+    "ro": "creat",
+    "ru": "создал",
+    "en": "created"
+  },
+  {
+    "ro": "întrebarea",
+    "ru": "вопрос",
+    "en": "the question"
+  },
+  {
+    "ro": "implicat",
+    "ru": "вовлечён",
+    "en": "involved"
+  },
+  {
+    "ro": "stiti",
+    "ru": "вы знаете",
+    "en": "you know"
+  },
+  {
+    "ro": "mândru",
+    "ru": "гордый",
+    "en": "proud"
+  },
+  {
+    "ro": "bei",
+    "ru": "ты пьёшь",
+    "en": "you drink"
+  },
+  {
+    "ro": "navă",
+    "ru": "корабль",
+    "en": "ship"
+  },
+  {
+    "ro": "tipi",
+    "ru": "парни",
+    "en": "guys"
+  },
+  {
+    "ro": "pete",
+    "ru": "пятна",
+    "en": "stains"
+  },
+  {
+    "ro": "rugăm",
+    "ru": "просим",
+    "en": "we ask (polite)"
+  },
+  {
+    "ro": "martin",
+    "ru": "Мартин",
+    "en": "Martin"
+  },
+  {
+    "ro": "dragul",
+    "ru": "дорогой",
+    "en": "dear"
+  },
+  {
+    "ro": "preşedinte",
+    "ru": "президент",
+    "en": "president"
+  },
+  {
+    "ro": "profesor",
+    "ru": "учитель / профессор",
+    "en": "teacher / professor"
+  },
+  {
+    "ro": "pahar",
+    "ru": "стакан",
+    "en": "glass"
+  },
+  {
+    "ro": "mânca",
+    "ru": "есть",
+    "en": "to eat"
+  },
+  {
+    "ro": "extrem",
+    "ru": "крайний / экстремальный",
+    "en": "extreme"
+  },
+  {
+    "ro": "kate",
+    "ru": "Кейт",
+    "en": "Kate"
+  },
+  {
+    "ro": "listă",
+    "ru": "список",
+    "en": "list"
+  },
+  {
+    "ro": "lee",
+    "ru": "Ли",
+    "en": "Lee"
+  },
+  {
+    "ro": "stim",
+    "ru": "мы знаем",
+    "en": "we know"
+  },
+  {
+    "ro": "eric",
+    "ru": "Эрик",
+    "en": "Eric"
+  },
+  {
+    "ro": "iad",
+    "ru": "ад",
+    "en": "hell"
+  },
+  {
+    "ro": "animale",
+    "ru": "животные",
+    "en": "animals"
+  },
+  {
+    "ro": "urgenţă",
+    "ru": "срочно / неотложно",
+    "en": "emergency"
+  },
+  {
+    "ro": "ieşim",
+    "ru": "мы выходим",
+    "en": "we go out"
+  },
+  {
+    "ro": "misiunea",
+    "ru": "миссия",
+    "en": "mission"
+  },
+  {
+    "ro": "tv",
+    "ru": "телевидение",
+    "en": "TV"
+  },
+  {
+    "ro": "kevin",
+    "ru": "Кевин",
+    "en": "Kevin"
+  },
+  {
+    "ro": "or",
+    "ru": "или",
+    "en": "or"
+  },
+  {
+    "ro": "fierbinte",
+    "ru": "горячий",
+    "en": "hot"
+  },
+  {
+    "ro": "bănuiesc",
+    "ru": "предполагаю",
+    "en": "I guess"
+  },
+  {
+    "ro": "prânz",
+    "ru": "обед",
+    "en": "lunch"
+  },
+  {
+    "ro": "ceri",
+    "ru": "ты просишь",
+    "en": "you ask"
+  },
+  {
+    "ro": "liberă",
+    "ru": "свободная",
+    "en": "free (feminine)"
+  },
+  {
+    "ro": "to",
+    "ru": "к / до / чтобы",
+    "en": "to"
+  },
+  {
+    "ro": "călătorie",
+    "ru": "путешествие",
+    "en": "journey"
+  },
+  {
+    "ro": "programul",
+    "ru": "программа / расписание",
+    "en": "program / schedule"
+  },
+  {
+    "ro": "asculţi",
+    "ru": "ты слушаешь",
+    "en": "you listen"
+  },
+  {
+    "ro": "moare",
+    "ru": "умирает",
+    "en": "dies"
+  },
+  {
+    "ro": "acei",
+    "ru": "те",
+    "en": "those"
+  },
+  {
+    "ro": "bază",
+    "ru": "база / основа",
+    "en": "base"
+  },
+  {
+    "ro": "regulile",
+    "ru": "правила",
+    "en": "the rules"
+  },
+  {
+    "ro": "arate",
+    "ru": "показать",
+    "en": "to show"
+  },
+  {
+    "ro": "prezint",
+    "ru": "я представляю",
+    "en": "I present"
+  },
+  {
+    "ro": "stop",
+    "ru": "стоп",
+    "en": "stop"
+  },
+  {
+    "ro": "larry",
+    "ru": "Ларри",
+    "en": "Larry"
+  },
+  {
+    "ro": "creierul",
+    "ru": "мозг",
+    "en": "the brain"
+  },
+  {
+    "ro": "cunoaşte",
+    "ru": "знает",
+    "en": "knows"
+  },
+  {
+    "ro": "bărbaţii",
+    "ru": "мужчины",
+    "en": "the men"
+  },
+  {
+    "ro": "huh",
+    "ru": "а?",
+    "en": "huh"
+  },
+  {
+    "ro": "oprim",
+    "ru": "мы останавливаем",
+    "en": "we stop"
+  },
+  {
+    "ro": "cuvintele",
+    "ru": "слова",
+    "en": "the words"
+  },
+  {
+    "ro": "băgat",
+    "ru": "вставил / засунул",
+    "en": "inserted"
+  },
+  {
+    "ro": "walter",
+    "ru": "Уолтер",
+    "en": "Walter"
+  },
+  {
+    "ro": "cateva",
+    "ru": "несколько",
+    "en": "a few"
+  },
+  {
+    "ro": "scott",
+    "ru": "Скотт",
+    "en": "Scott"
+  },
+  {
+    "ro": "supărată",
+    "ru": "расстроенная",
+    "en": "upset (feminine)"
+  },
+  {
+    "ro": "atâtea",
+    "ru": "так много",
+    "en": "so many"
+  },
+  {
+    "ro": "permis",
+    "ru": "разрешено / разрешение",
+    "en": "allowed / permit"
+  },
+  {
+    "ro": "cadavrul",
+    "ru": "труп",
+    "en": "corpse"
+  },
+  {
+    "ro": "oricare",
+    "ru": "любой",
+    "en": "any"
+  },
+  {
+    "ro": "foloseşte",
+    "ru": "использует",
+    "en": "uses"
+  },
+  {
+    "ro": "and",
+    "ru": "и",
+    "en": "and"
+  },
+  {
+    "ro": "corp",
+    "ru": "тело / корпус",
+    "en": "body / corps"
+  },
+  {
+    "ro": "liceu",
+    "ru": "лицей / старшая школа",
+    "en": "high school"
+  },
+  {
+    "ro": "ridicat",
+    "ru": "поднял",
+    "en": "raised"
+  },
+  {
+    "ro": "neregulă",
+    "ru": "неисправность / проблема",
+    "en": "problem / irregularity"
+  },
+  {
+    "ro": "treacă",
+    "ru": "пусть проходит",
+    "en": "let (it) pass"
+  },
+  {
+    "ro": "lucrul",
+    "ru": "вещь / дело",
+    "en": "thing / matter"
+  },
+  {
+    "ro": "vinde",
+    "ru": "продаёт",
+    "en": "sells"
+  },
+  {
+    "ro": "păcate",
+    "ru": "грехи",
+    "en": "sins"
+  },
+  {
+    "ro": "impreuna",
+    "ru": "вместе",
+    "en": "together"
+  },
+  {
+    "ro": "rămână",
+    "ru": "пусть останется",
+    "en": "let (him/her) stay"
+  },
+  {
+    "ro": "wow",
+    "ru": "вау",
+    "en": "wow"
+  },
+  {
+    "ro": "tragi",
+    "ru": "ты тянешь / стреляешь",
+    "en": "you pull / shoot"
+  },
+  {
+    "ro": "înţelegere",
+    "ru": "понимание",
+    "en": "understanding"
+  },
+  {
+    "ro": "atacat",
+    "ru": "атаковал",
+    "en": "attacked"
+  },
+  {
+    "ro": "şef",
+    "ru": "шеф / начальник",
+    "en": "boss"
+  },
+  {
+    "ro": "afle",
+    "ru": "узнает",
+    "en": "finds out"
+  },
+  {
+    "ro": "scăpa",
+    "ru": "избавиться / сбежать",
+    "en": "escape / get rid of"
+  },
+  {
+    "ro": "viu",
+    "ru": "живой",
+    "en": "alive"
+  },
+  {
+    "ro": "trăit",
+    "ru": "жил",
+    "en": "lived"
+  },
+  {
+    "ro": "durerea",
+    "ru": "боль",
+    "en": "the pain"
+  },
+  {
+    "ro": "cărţi",
+    "ru": "книги",
+    "en": "books"
+  },
+  {
+    "ro": "datorită",
+    "ru": "благодаря",
+    "en": "thanks to"
+  },
+  {
+    "ro": "grozavă",
+    "ru": "отличная",
+    "en": "great (fem.)"
+  },
+  {
+    "ro": "est",
+    "ru": "восток",
+    "en": "east"
+  },
+  {
+    "ro": "brian",
+    "ru": "Брайан",
+    "en": "Brian"
+  },
+  {
+    "ro": "revenit",
+    "ru": "вернулся",
+    "en": "returned"
+  },
+  {
+    "ro": "bunicul",
+    "ru": "дедушка",
+    "en": "grandfather"
+  },
+  {
+    "ro": "regret",
+    "ru": "сожаление",
+    "en": "regret"
+  },
+  {
+    "ro": "neagră",
+    "ru": "чёрная",
+    "en": "black (fem.)"
+  },
+  {
+    "ro": "vreodata",
+    "ru": "когда-либо",
+    "en": "ever"
+  },
+  {
+    "ro": "practic",
+    "ru": "практически",
+    "en": "practically"
+  },
+  {
+    "ro": "părut",
+    "ru": "показался",
+    "en": "seemed"
+  },
+  {
+    "ro": "conform",
+    "ru": "в соответствии",
+    "en": "according to"
+  },
+  {
+    "ro": "poată",
+    "ru": "может",
+    "en": "can / may"
+  },
+  {
+    "ro": "stricat",
+    "ru": "сломанный",
+    "en": "broken"
+  },
+  {
+    "ro": "decizia",
+    "ru": "решение",
+    "en": "the decision"
+  },
+  {
+    "ro": "frig",
+    "ru": "холод",
+    "en": "cold"
+  },
+  {
+    "ro": "aruncă",
+    "ru": "бросает",
+    "en": "throws"
+  },
+  {
+    "ro": "îndrăgostit",
+    "ru": "влюблённый",
+    "en": "in love"
+  },
+  {
+    "ro": "explica",
+    "ru": "объяснять",
+    "en": "to explain"
+  },
+  {
+    "ro": "trăieşte",
+    "ru": "живёт",
+    "en": "lives"
+  },
+  {
+    "ro": "vândut",
+    "ru": "продал",
+    "en": "sold"
+  },
+  {
+    "ro": "atins",
+    "ru": "коснулся",
+    "en": "touched"
+  },
+  {
+    "ro": "maine",
+    "ru": "завтра",
+    "en": "tomorrow"
+  },
+  {
+    "ro": "stiam",
+    "ru": "я знал",
+    "en": "I knew"
+  },
+  {
+    "ro": "tara",
+    "ru": "страна",
+    "en": "country"
+  },
+  {
+    "ro": "plăcută",
+    "ru": "приятная",
+    "en": "pleasant (fem.)"
+  },
+  {
+    "ro": "pregătită",
+    "ru": "готовая",
+    "en": "ready (fem.)"
+  },
+  {
+    "ro": "mesajul",
+    "ru": "сообщение",
+    "en": "the message"
+  },
+  {
+    "ro": "trist",
+    "ru": "грустный",
+    "en": "sad"
+  },
+  {
+    "ro": "iubirea",
+    "ru": "любовь",
+    "en": "the love"
+  },
+  {
+    "ro": "relaţie",
+    "ru": "отношения",
+    "en": "relationship"
+  },
+  {
+    "ro": "speram",
+    "ru": "я надеялся",
+    "en": "I hoped"
+  },
+  {
+    "ro": "perioadă",
+    "ru": "период",
+    "en": "period"
+  },
+  {
+    "ro": "şefu",
+    "ru": "шеф",
+    "en": "boss"
+  },
+  {
+    "ro": "situaţie",
+    "ru": "ситуация",
+    "en": "situation"
+  },
+  {
+    "ro": "picior",
+    "ru": "нога",
+    "en": "leg"
+  },
+  {
+    "ro": "inceput",
+    "ru": "начало",
+    "en": "beginning"
+  },
+  {
+    "ro": "avocatul",
+    "ru": "адвокат",
+    "en": "the lawyer"
+  },
+  {
+    "ro": "băutură",
+    "ru": "напиток",
+    "en": "drink"
+  },
+  {
+    "ro": "agentul",
+    "ru": "агент",
+    "en": "the agent"
+  },
+  {
+    "ro": "vizită",
+    "ru": "визит",
+    "en": "visit"
+  },
+  {
+    "ro": "descurci",
+    "ru": "разбираешься",
+    "en": "you manage"
+  },
+  {
+    "ro": "căuta",
+    "ru": "искать",
+    "en": "to search"
+  },
+  {
+    "ro": "prind",
+    "ru": "ловлю",
+    "en": "I catch"
+  },
+  {
+    "ro": "taxi",
+    "ru": "такси",
+    "en": "taxi"
+  },
+  {
+    "ro": "ocazia",
+    "ru": "возможность / случай",
+    "en": "opportunity / occasion"
+  },
+  {
+    "ro": "poarta",
+    "ru": "ворота",
+    "en": "gate"
+  },
+  {
+    "ro": "chestiile",
+    "ru": "вещи / штуки",
+    "en": "things / stuff"
+  },
+  {
+    "ro": "îngrijorat",
+    "ru": "встревоженный",
+    "en": "worried"
+  },
+  {
+    "ro": "san",
+    "ru": "грудь",
+    "en": "breast"
+  },
+  {
+    "ro": "treia",
+    "ru": "третий",
+    "en": "third"
+  },
+  {
+    "ro": "hotărât",
+    "ru": "решил",
+    "en": "decided"
+  },
+  {
+    "ro": "vorbiţi",
+    "ru": "вы говорите",
+    "en": "you speak (plural, polite)"
+  },
+  {
+    "ro": "interior",
+    "ru": "внутри / интерьер",
+    "en": "inside / interior"
+  },
+  {
+    "ro": "culcat",
+    "ru": "лег спать",
+    "en": "gone to bed"
+  },
+  {
+    "ro": "tarziu",
+    "ru": "поздно",
+    "en": "late"
+  },
+  {
+    "ro": "sir",
+    "ru": "сэр / ряд",
+    "en": "sir / row"
+  },
+  {
+    "ro": "comanda",
+    "ru": "приказ / заказ",
+    "en": "order / command"
+  },
+  {
+    "ro": "blocat",
+    "ru": "заблокированный",
+    "en": "blocked"
+  },
+  {
+    "ro": "rele",
+    "ru": "плохие",
+    "en": "bad (plural)"
+  },
+  {
+    "ro": "interiorul",
+    "ru": "внутренность",
+    "en": "the interior"
+  },
+  {
+    "ro": "soarele",
+    "ru": "солнце",
+    "en": "the sun"
+  },
+  {
+    "ro": "privinţa",
+    "ru": "отношение / касательно",
+    "en": "regarding / in respect of"
+  },
+  {
+    "ro": "şansa",
+    "ru": "шанс",
+    "en": "chance"
+  },
+  {
+    "ro": "interesat",
+    "ru": "заинтересованный",
+    "en": "interested"
+  },
+  {
+    "ro": "copiilor",
+    "ru": "детей",
+    "en": "of the children"
+  },
+  {
+    "ro": "scoala",
+    "ru": "школа",
+    "en": "school"
+  },
+  {
+    "ro": "amy",
+    "ru": "Эми",
+    "en": "Amy"
+  },
+  {
+    "ro": "linie",
+    "ru": "линия",
+    "en": "line"
+  },
+  {
+    "ro": "puteai",
+    "ru": "ты мог",
+    "en": "you could"
+  },
+  {
+    "ro": "contact",
+    "ru": "контакт",
+    "en": "contact"
+  },
+  {
+    "ro": "maria",
+    "ru": "Мария",
+    "en": "Maria"
+  },
+  {
+    "ro": "făcută",
+    "ru": "сделанная",
+    "en": "made (fem.)"
+  },
+  {
+    "ro": "crima",
+    "ru": "преступление",
+    "en": "crime"
+  },
+  {
+    "ro": "guvernul",
+    "ru": "правительство",
+    "en": "the government"
+  },
+  {
+    "ro": "înaintea",
+    "ru": "перед",
+    "en": "before"
+  },
+  {
+    "ro": "acelasi",
+    "ru": "тот же",
+    "en": "the same"
+  },
+  {
+    "ro": "iubitule",
+    "ru": "любимый",
+    "en": "darling (masc.)"
+  },
+  {
+    "ro": "ultimii",
+    "ru": "последние",
+    "en": "the last (plural)"
+  },
+  {
+    "ro": "lovitură",
+    "ru": "удар",
+    "en": "blow"
+  },
+  {
+    "ro": "vorbeam",
+    "ru": "я говорил",
+    "en": "I was speaking"
+  },
+  {
+    "ro": "arunca",
+    "ru": "бросать",
+    "en": "to throw"
+  },
+  {
+    "ro": "foloseşti",
+    "ru": "ты используешь",
+    "en": "you use"
+  },
+  {
+    "ro": "poze",
+    "ru": "фотографии",
+    "en": "photos"
+  },
+  {
+    "ro": "distanţă",
+    "ru": "расстояние",
+    "en": "distance"
+  },
+  {
+    "ro": "nuntă",
+    "ru": "свадьба",
+    "en": "wedding"
+  },
+  {
+    "ro": "thomas",
+    "ru": "Томас",
+    "en": "Thomas"
+  },
+  {
+    "ro": "membru",
+    "ru": "член",
+    "en": "member"
+  },
+  {
+    "ro": "ocupa",
+    "ru": "заниматься",
+    "en": "to occupy"
+  },
+  {
+    "ro": "întuneric",
+    "ru": "темнота",
+    "en": "darkness"
+  },
+  {
+    "ro": "ordin",
+    "ru": "приказ",
+    "en": "order"
+  },
+  {
+    "ro": "dur",
+    "ru": "жёсткий",
+    "en": "tough"
+  },
+  {
+    "ro": "rachel",
+    "ru": "Рэйчел",
+    "en": "Rachel"
+  },
+  {
+    "ro": "jerry",
+    "ru": "Джерри",
+    "en": "Jerry"
+  },
+  {
+    "ro": "citesc",
+    "ru": "я читаю",
+    "en": "I read"
+  },
+  {
+    "ro": "muzică",
+    "ru": "музыка",
+    "en": "music"
+  },
+  {
+    "ro": "întrebam",
+    "ru": "я спрашивал",
+    "en": "I was asking"
+  },
+  {
+    "ro": "pâna",
+    "ru": "до",
+    "en": "until"
+  },
+  {
+    "ro": "pregătiţi",
+    "ru": "готовы",
+    "en": "ready (plural)"
+  },
+  {
+    "ro": "roşu",
+    "ru": "красный",
+    "en": "red"
+  },
+  {
+    "ro": "degrabă",
+    "ru": "скоро",
+    "en": "soon"
+  },
+  {
+    "ro": "pădure",
+    "ru": "лес",
+    "en": "forest"
+  },
+  {
+    "ro": "oricând",
+    "ru": "в любое время",
+    "en": "anytime"
+  },
+  {
+    "ro": "încântat",
+    "ru": "рад / доволен",
+    "en": "delighted"
+  },
+  {
+    "ro": "bătaie",
+    "ru": "драка",
+    "en": "fight"
+  },
+  {
+    "ro": "nivelul",
+    "ru": "уровень",
+    "en": "the level"
+  },
+  {
+    "ro": "preşedintele",
+    "ru": "президент",
+    "en": "the president"
+  },
+  {
+    "ro": "urme",
+    "ru": "следы",
+    "en": "tracks"
+  },
+  {
+    "ro": "animal",
+    "ru": "животное",
+    "en": "animal"
+  },
+  {
+    "ro": "costum",
+    "ru": "костюм",
+    "en": "suit"
+  },
+  {
+    "ro": "realizat",
+    "ru": "осознал / реализовал",
+    "en": "realized"
+  },
+  {
+    "ro": "mănânc",
+    "ru": "я ем",
+    "en": "I eat"
+  },
+  {
+    "ro": "acestor",
+    "ru": "этих",
+    "en": "of these"
+  },
+  {
+    "ro": "hmm",
+    "ru": "мм",
+    "en": "hmm"
+  },
+  {
+    "ro": "dragule",
+    "ru": "дорогой",
+    "en": "darling"
+  },
+  {
+    "ro": "uităm",
+    "ru": "мы смотрим / забываем",
+    "en": "we look / forget"
+  },
+  {
+    "ro": "bord",
+    "ru": "панель / борт",
+    "en": "dashboard / board"
+  },
+  {
+    "ro": "alţi",
+    "ru": "другие",
+    "en": "others"
+  },
+  {
+    "ro": "restaurant",
+    "ru": "ресторан",
+    "en": "restaurant"
+  },
+  {
+    "ro": "patul",
+    "ru": "кровать",
+    "en": "the bed"
+  },
+  {
+    "ro": "inteleg",
+    "ru": "я понимаю",
+    "en": "I understand"
+  },
+  {
+    "ro": "fericire",
+    "ru": "счастье",
+    "en": "happiness"
+  },
+  {
+    "ro": "sti",
+    "ru": "ты знаешь",
+    "en": "you know"
+  },
+  {
+    "ro": "trăieşti",
+    "ru": "ты живёшь",
+    "en": "you live"
+  },
+  {
+    "ro": "curent",
+    "ru": "ток / текущий",
+    "en": "current / electricity"
+  },
+  {
+    "ro": "decizie",
+    "ru": "решение",
+    "en": "decision"
+  },
+  {
+    "ro": "lipseşte",
+    "ru": "отсутствует",
+    "en": "is missing"
+  },
+  {
+    "ro": "cauză",
+    "ru": "причина",
+    "en": "cause"
+  },
+  {
+    "ro": "pasa",
+    "ru": "заботиться",
+    "en": "to care"
+  },
+  {
+    "ro": "vârstă",
+    "ru": "возраст",
+    "en": "age"
+  },
+  {
+    "ro": "unchiule",
+    "ru": "дядя",
+    "en": "uncle (vocative)"
+  },
+  {
+    "ro": "trăiască",
+    "ru": "да здравствует",
+    "en": "long live"
+  },
+  {
+    "ro": "jason",
+    "ru": "Джейсон",
+    "en": "Jason"
+  },
+  {
+    "ro": "nasul",
+    "ru": "нос",
+    "en": "the nose"
+  },
+  {
+    "ro": "gunoi",
+    "ru": "мусор",
+    "en": "trash"
+  },
+  {
+    "ro": "anii",
+    "ru": "годы",
+    "en": "years"
+  },
+  {
+    "ro": "clipa",
+    "ru": "момент",
+    "en": "moment"
+  },
+  {
+    "ro": "raportul",
+    "ru": "отчёт",
+    "en": "the report"
+  },
+  {
+    "ro": "gât",
+    "ru": "шея",
+    "en": "neck"
+  },
+  {
+    "ro": "rezolvat",
+    "ru": "решён",
+    "en": "solved"
+  },
+  {
+    "ro": "sticlă",
+    "ru": "бутылка / стекло",
+    "en": "bottle / glass"
+  },
+  {
+    "ro": "surprins",
+    "ru": "удивлённый",
+    "en": "surprised"
+  },
+  {
+    "ro": "test",
+    "ru": "тест",
+    "en": "test"
+  },
+  {
+    "ro": "erou",
+    "ru": "герой",
+    "en": "hero"
+  },
+  {
+    "ro": "nenorocitule",
+    "ru": "ублюдок",
+    "en": "bastard"
+  },
+  {
+    "ro": "înca",
+    "ru": "ещё",
+    "en": "still"
+  },
+  {
+    "ro": "ucidă",
+    "ru": "убьёт",
+    "en": "will kill"
+  },
+  {
+    "ro": "spuneam",
+    "ru": "я говорил",
+    "en": "I was saying"
+  },
+  {
+    "ro": "tăiat",
+    "ru": "порезанный",
+    "en": "cut"
+  },
+  {
+    "ro": "poză",
+    "ru": "фото",
+    "en": "photo"
+  },
+  {
+    "ro": "pielea",
+    "ru": "кожа",
+    "en": "skin"
+  },
+  {
+    "ro": "lungul",
+    "ru": "долгий / вдоль",
+    "en": "along / the length of"
+  },
+  {
+    "ro": "comun",
+    "ru": "общий",
+    "en": "common"
+  },
+  {
+    "ro": "starea",
+    "ru": "состояние",
+    "en": "the state / condition"
+  },
+  {
+    "ro": "beat",
+    "ru": "пьяный",
+    "en": "drunk"
+  },
+  {
+    "ro": "vest",
+    "ru": "запад",
+    "en": "west"
+  },
+  {
+    "ro": "făceam",
+    "ru": "я делал",
+    "en": "I was doing"
+  },
+  {
+    "ro": "meci",
+    "ru": "матч",
+    "en": "match"
+  },
+  {
+    "ro": "maşini",
+    "ru": "машины",
+    "en": "cars"
+  },
+  {
+    "ro": "zilei",
+    "ru": "дня",
+    "en": "of the day"
+  },
+  {
+    "ro": "intrăm",
+    "ru": "мы входим",
+    "en": "we enter"
+  },
+  {
+    "ro": "soare",
+    "ru": "солнце",
+    "en": "sun"
+  },
+  {
+    "ro": "praf",
+    "ru": "пыль",
+    "en": "dust"
+  },
+  {
+    "ro": "armată",
+    "ru": "армия",
+    "en": "army"
+  },
+  {
+    "ro": "cã",
+    "ru": "что",
+    "en": "that"
+  },
+  {
+    "ro": "planeta",
+    "ru": "планета",
+    "en": "planet"
+  },
+  {
+    "ro": "suflet",
+    "ru": "душа",
+    "en": "soul"
+  },
+  {
+    "ro": "vreti",
+    "ru": "вы хотите",
+    "en": "you want"
+  },
+  {
+    "ro": "bucătărie",
+    "ru": "кухня",
+    "en": "kitchen"
+  },
+  {
+    "ro": "păţit",
+    "ru": "произошло",
+    "en": "happened to"
+  },
+  {
+    "ro": "istoria",
+    "ru": "история",
+    "en": "history"
+  },
+  {
+    "ro": "pierdem",
+    "ru": "мы теряем",
+    "en": "we lose"
+  },
+  {
+    "ro": "lisa",
+    "ru": "Лиза",
+    "en": "Lisa"
+  },
+  {
+    "ro": "cunoştinţă",
+    "ru": "знакомство / знание",
+    "en": "acquaintance / knowledge"
+  },
+  {
+    "ro": "emily",
+    "ru": "Эмили",
+    "en": "Emily"
+  },
+  {
+    "ro": "iubita",
+    "ru": "девушка / возлюбленная",
+    "en": "girlfriend / beloved"
+  },
+  {
+    "ro": "tânără",
+    "ru": "молодая",
+    "en": "young (fem.)"
+  },
+  {
+    "ro": "andy",
+    "ru": "Энди",
+    "en": "Andy"
+  },
+  {
+    "ro": "sean",
+    "ru": "Шон",
+    "en": "Sean"
+  },
+  {
+    "ro": "ascultaţi",
+    "ru": "вы слушаете",
+    "en": "you listen"
+  },
+  {
+    "ro": "sexy",
+    "ru": "сексуальный",
+    "en": "sexy"
+  },
+  {
+    "ro": "cutia",
+    "ru": "коробка",
+    "en": "the box"
+  },
+  {
+    "ro": "inteligent",
+    "ru": "умный",
+    "en": "smart"
+  },
+  {
+    "ro": "poza",
+    "ru": "фото",
+    "en": "photo"
+  },
+  {
+    "ro": "nopţii",
+    "ru": "ночи",
+    "en": "of the night"
+  },
+  {
+    "ro": "întâlni",
+    "ru": "встретить",
+    "en": "to meet"
+  },
+  {
+    "ro": "bem",
+    "ru": "мы пьём",
+    "en": "we drink"
+  },
+  {
+    "ro": "gheaţă",
+    "ru": "лёд",
+    "en": "ice"
+  },
+  {
+    "ro": "continui",
+    "ru": "я продолжаю",
+    "en": "I continue"
+  },
+  {
+    "ro": "aș",
+    "ru": "я бы",
+    "en": "I would"
+  },
+  {
+    "ro": "ridica",
+    "ru": "поднять",
+    "en": "to lift"
+  },
+  {
+    "ro": "locuiesc",
+    "ru": "я живу",
+    "en": "I live"
+  },
+  {
+    "ro": "li",
+    "ru": "им",
+    "en": "to them"
+  },
+  {
+    "ro": "fantastic",
+    "ru": "фантастический",
+    "en": "fantastic"
+  },
+  {
+    "ro": "oraşului",
+    "ru": "города",
+    "en": "of the city"
+  },
+  {
+    "ro": "program",
+    "ru": "программа / расписание",
+    "en": "program / schedule"
+  },
+  {
+    "ro": "nivel",
+    "ru": "уровень",
+    "en": "level"
+  },
+  {
+    "ro": "isi",
+    "ru": "себе",
+    "en": "himself/herself"
+  },
+  {
+    "ro": "annie",
+    "ru": "Энни",
+    "en": "Annie"
+  },
+  {
+    "ro": "existat",
+    "ru": "существовал",
+    "en": "existed"
+  },
+  {
+    "ro": "culcare",
+    "ru": "сон",
+    "en": "sleep / bedtime"
+  },
+  {
+    "ro": "unite",
+    "ru": "объединённые",
+    "en": "united"
+  },
+  {
+    "ro": "crime",
+    "ru": "преступления",
+    "en": "crimes"
+  },
+  {
+    "ro": "bogat",
+    "ru": "богатый",
+    "en": "rich"
+  },
+  {
+    "ro": "kyle",
+    "ru": "Кайл",
+    "en": "Kyle"
+  },
+  {
+    "ro": "importante",
+    "ru": "важные",
+    "en": "important"
+  },
+  {
+    "ro": "ofer",
+    "ru": "я предлагаю",
+    "en": "I offer"
+  },
+  {
+    "ro": "schimbare",
+    "ru": "изменение",
+    "en": "change"
+  },
+  {
+    "ro": "bag",
+    "ru": "кладу",
+    "en": "put / place"
+  },
+  {
+    "ro": "omorî",
+    "ru": "убить",
+    "en": "to kill"
+  },
+  {
+    "ro": "poliţiei",
+    "ru": "полиции",
+    "en": "of the police"
+  },
+  {
+    "ro": "clark",
+    "ru": "Кларк",
+    "en": "Clark"
+  },
+  {
+    "ro": "plânge",
+    "ru": "плачет",
+    "en": "cries"
+  },
+  {
+    "ro": "anna",
+    "ru": "Анна",
+    "en": "Anna"
+  },
+  {
+    "ro": "cumpăr",
+    "ru": "я покупаю",
+    "en": "I buy"
+  },
+  {
+    "ro": "bărbatul",
+    "ru": "мужчина",
+    "en": "the man"
+  },
+  {
+    "ro": "martor",
+    "ru": "свидетель",
+    "en": "witness"
+  },
+  {
+    "ro": "kim",
+    "ru": "Ким",
+    "en": "Kim"
+  },
+  {
+    "ro": "vineri",
+    "ru": "пятница",
+    "en": "Friday"
+  },
+  {
+    "ro": "jucăm",
+    "ru": "мы играем",
+    "en": "we play"
+  },
+  {
+    "ro": "creadă",
+    "ru": "поверить",
+    "en": "believe"
+  },
+  {
+    "ro": "conduci",
+    "ru": "ты ведёшь",
+    "en": "you drive"
+  },
+  {
+    "ro": "durează",
+    "ru": "длится",
+    "en": "lasts"
+  },
+  {
+    "ro": "amândouă",
+    "ru": "обе",
+    "en": "both"
+  },
+  {
+    "ro": "laborator",
+    "ru": "лаборатория",
+    "en": "laboratory"
+  },
+  {
+    "ro": "bat",
+    "ru": "бью",
+    "en": "hit"
+  },
+  {
+    "ro": "matt",
+    "ru": "Мэтт",
+    "en": "Matt"
+  },
+  {
+    "ro": "tii",
+    "ru": "держишь",
+    "en": "you hold"
+  },
+  {
+    "ro": "atenţia",
+    "ru": "внимание",
+    "en": "attention"
+  },
+  {
+    "ro": "video",
+    "ru": "видео",
+    "en": "video"
+  },
+  {
+    "ro": "departamentul",
+    "ru": "отдел",
+    "en": "the department"
+  },
+  {
+    "ro": "construit",
+    "ru": "построенный",
+    "en": "built"
+  },
+  {
+    "ro": "întoarcă",
+    "ru": "вернуться",
+    "en": "to return"
+  },
+  {
+    "ro": "întreba",
+    "ru": "спросить",
+    "en": "to ask"
+  },
+  {
+    "ro": "aducă",
+    "ru": "принести",
+    "en": "to bring"
+  },
+  {
+    "ro": "flori",
+    "ru": "цветы",
+    "en": "flowers"
+  },
+  {
+    "ro": "oficial",
+    "ru": "официальный",
+    "en": "official"
+  },
+  {
+    "ro": "barca",
+    "ru": "лодка",
+    "en": "boat"
+  },
+  {
+    "ro": "responsabil",
+    "ru": "ответственный",
+    "en": "responsible"
+  },
+  {
+    "ro": "sine",
+    "ru": "себя",
+    "en": "oneself"
+  },
+  {
+    "ro": "team",
+    "ru": "команда",
+    "en": "team"
+  },
+  {
+    "ro": "partenerul",
+    "ru": "партнёр",
+    "en": "the partner"
+  },
+  {
+    "ro": "fotbal",
+    "ru": "футбол",
+    "en": "football"
+  },
+  {
+    "ro": "mint",
+    "ru": "лгу",
+    "en": "I lie"
+  },
+  {
+    "ro": "washington",
+    "ru": "Вашингтон",
+    "en": "Washington"
+  },
+  {
+    "ro": "luptat",
+    "ru": "сражался",
+    "en": "fought"
+  },
+  {
+    "ro": "albă",
+    "ru": "белая",
+    "en": "white (fem.)"
+  },
+  {
+    "ro": "mile",
+    "ru": "мили",
+    "en": "miles"
+  },
+  {
+    "ro": "fa",
+    "ru": "сделай",
+    "en": "do"
+  },
+  {
+    "ro": "aranjat",
+    "ru": "организованный",
+    "en": "arranged"
+  },
+  {
+    "ro": "chem",
+    "ru": "зову",
+    "en": "call"
+  },
+  {
+    "ro": "anumite",
+    "ru": "определённые",
+    "en": "certain"
+  },
+  {
+    "ro": "ted",
+    "ru": "Тед",
+    "en": "Ted"
+  },
+  {
+    "ro": "ucid",
+    "ru": "убиваю",
+    "en": "I kill"
+  },
+  {
+    "ro": "locotenente",
+    "ru": "лейтенант",
+    "en": "lieutenant"
+  },
+  {
+    "ro": "ciudată",
+    "ru": "странная",
+    "en": "weird"
+  },
+  {
+    "ro": "scenă",
+    "ru": "сцена",
+    "en": "scene"
+  },
+  {
+    "ro": "magazinul",
+    "ru": "магазин",
+    "en": "the store"
+  },
+  {
+    "ro": "milă",
+    "ru": "жалость",
+    "en": "mercy"
+  },
+  {
+    "ro": "venim",
+    "ru": "мы приходим",
+    "en": "we come"
+  },
+  {
+    "ro": "culoare",
+    "ru": "цвет",
+    "en": "color"
+  },
+  {
+    "ro": "claire",
+    "ru": "Клэр",
+    "en": "Claire"
+  },
+  {
+    "ro": "mingea",
+    "ru": "мяч",
+    "en": "ball"
+  },
+  {
+    "ro": "proteja",
+    "ru": "защищать",
+    "en": "protect"
+  },
+  {
+    "ro": "pară",
+    "ru": "груша",
+    "en": "pear"
+  },
+  {
+    "ro": "planuri",
+    "ru": "планы",
+    "en": "plans"
+  },
+  {
+    "ro": "insula",
+    "ru": "остров",
+    "en": "island"
+  },
+  {
+    "ro": "odata",
+    "ru": "однажды",
+    "en": "once"
+  },
+  {
+    "ro": "urmele",
+    "ru": "следы",
+    "en": "tracks"
+  },
+  {
+    "ro": "bancă",
+    "ru": "банк",
+    "en": "bank"
+  },
+  {
+    "ro": "bucată",
+    "ru": "кусок",
+    "en": "piece"
+  },
+  {
+    "ro": "judecător",
+    "ru": "судья",
+    "en": "judge"
+  },
+  {
+    "ro": "biserică",
+    "ru": "церковь",
+    "en": "church"
+  },
+  {
+    "ro": "sune",
+    "ru": "зазвонит",
+    "en": "to ring"
+  },
+  {
+    "ro": "gâtul",
+    "ru": "шея",
+    "en": "neck"
+  },
+  {
+    "ro": "liniştit",
+    "ru": "спокойный",
+    "en": "calm"
+  },
+  {
+    "ro": "dave",
+    "ru": "Дэйв",
+    "en": "Dave"
+  },
+  {
+    "ro": "scapi",
+    "ru": "убегаешь",
+    "en": "escape"
+  },
+  {
+    "ro": "adu",
+    "ru": "принеси",
+    "en": "bring"
+  },
+  {
+    "ro": "discutat",
+    "ru": "обсуждали",
+    "en": "discussed"
+  },
+  {
+    "ro": "spaţiu",
+    "ru": "пространство",
+    "en": "space"
+  },
+  {
+    "ro": "legatura",
+    "ru": "связь",
+    "en": "connection"
+  },
+  {
+    "ro": "inteles",
+    "ru": "понял",
+    "en": "understood"
+  },
+  {
+    "ro": "istorie",
+    "ru": "история",
+    "en": "history"
+  },
+  {
+    "ro": "accepta",
+    "ru": "принимать",
+    "en": "accept"
+  },
+  {
+    "ro": "grav",
+    "ru": "серьёзный",
+    "en": "serious"
+  },
+  {
+    "ro": "îndoială",
+    "ru": "сомнение",
+    "en": "doubt"
+  },
+  {
+    "ro": "realitate",
+    "ru": "реальность",
+    "en": "reality"
+  },
+  {
+    "ro": "intraţi",
+    "ru": "входите",
+    "en": "enter"
+  },
+  {
+    "ro": "sperăm",
+    "ru": "надеемся",
+    "en": "we hope"
+  },
+  {
+    "ro": "kelly",
+    "ru": "Келли",
+    "en": "Kelly"
+  },
+  {
+    "ro": "specială",
+    "ru": "особая",
+    "en": "special"
+  },
+  {
+    "ro": "dosarul",
+    "ru": "досье",
+    "en": "file"
+  },
+  {
+    "ro": "scoatem",
+    "ru": "вытаскиваем",
+    "en": "we take out"
+  },
+  {
+    "ro": "poziţia",
+    "ru": "позиция",
+    "en": "position"
+  },
+  {
+    "ro": "pereche",
+    "ru": "пара",
+    "en": "pair"
+  },
+  {
+    "ro": "stiut",
+    "ru": "знал",
+    "en": "knew"
+  },
+  {
+    "ro": "filme",
+    "ru": "фильмы",
+    "en": "movies"
+  },
+  {
+    "ro": "însărcinată",
+    "ru": "беременная",
+    "en": "pregnant"
+  },
+  {
+    "ro": "aproximativ",
+    "ru": "приблизительно",
+    "en": "approximately"
+  },
+  {
+    "ro": "curaj",
+    "ru": "мужество",
+    "en": "courage"
+  },
+  {
+    "ro": "televizor",
+    "ru": "телевизор",
+    "en": "television"
+  },
+  {
+    "ro": "niciunul",
+    "ru": "ни один",
+    "en": "none"
+  },
+  {
+    "ro": "gust",
+    "ru": "вкус",
+    "en": "taste"
+  },
+  {
+    "ro": "trenul",
+    "ru": "поезд",
+    "en": "the train"
+  },
+  {
+    "ro": "visul",
+    "ru": "сон",
+    "en": "dream"
+  },
+  {
+    "ro": "nervos",
+    "ru": "раздражённый",
+    "en": "nervous"
+  },
+  {
+    "ro": "gresit",
+    "ru": "ошибочный",
+    "en": "wrong"
+  },
+  {
+    "ro": "sansa",
+    "ru": "шанс",
+    "en": "chance"
+  },
+  {
+    "ro": "seamănă",
+    "ru": "похож",
+    "en": "resembles"
+  },
+  {
+    "ro": "ţină",
+    "ru": "держать",
+    "en": "hold"
+  },
+  {
+    "ro": "prezent",
+    "ru": "настоящее",
+    "en": "present"
+  },
+  {
+    "ro": "ars",
+    "ru": "сожжённый",
+    "en": "burned"
+  },
+  {
+    "ro": "adânc",
+    "ru": "глубокий",
+    "en": "deep"
+  },
+  {
+    "ro": "creşte",
+    "ru": "растёт",
+    "en": "grows"
+  },
+  {
+    "ro": "reală",
+    "ru": "реальная",
+    "en": "real"
+  },
+  {
+    "ro": "luke",
+    "ru": "Люк",
+    "en": "Luke"
+  },
+  {
+    "ro": "mana",
+    "ru": "рука",
+    "en": "hand"
+  },
+  {
+    "ro": "vorbeste",
+    "ru": "говорит",
+    "en": "speaks"
+  },
+  {
+    "ro": "tren",
+    "ru": "поезд",
+    "en": "train"
+  },
+  {
+    "ro": "trecutul",
+    "ru": "прошлое",
+    "en": "past"
+  },
+  {
+    "ro": "jeff",
+    "ru": "Джефф",
+    "en": "Jeff"
+  },
+  {
+    "ro": "încolo",
+    "ru": "дальше",
+    "en": "beyond"
+  },
+  {
+    "ro": "valoare",
+    "ru": "ценность",
+    "en": "value"
+  },
+  {
+    "ro": "idiotule",
+    "ru": "идиот",
+    "en": "idiot"
+  },
+  {
+    "ro": "banca",
+    "ru": "банк",
+    "en": "bank"
+  },
+  {
+    "ro": "lipsit",
+    "ru": "отсутствовал",
+    "en": "absent"
+  },
+  {
+    "ro": "soţ",
+    "ru": "муж",
+    "en": "husband"
+  },
+  {
+    "ro": "primeşti",
+    "ru": "получаешь",
+    "en": "you receive"
+  },
+  {
+    "ro": "încercam",
+    "ru": "пытался",
+    "en": "I was trying"
+  },
+  {
+    "ro": "miezul",
+    "ru": "суть",
+    "en": "core"
+  },
+  {
+    "ro": "scopul",
+    "ru": "цель",
+    "en": "purpose"
+  },
+  {
+    "ro": "centru",
+    "ru": "центр",
+    "en": "center"
+  },
+  {
+    "ro": "secretul",
+    "ru": "секрет",
+    "en": "secret"
+  },
+  {
+    "ro": "leo",
+    "ru": "Лео",
+    "en": "Leo"
+  },
+  {
+    "ro": "purtat",
+    "ru": "носил",
+    "en": "worn"
+  },
+  {
+    "ro": "lapte",
+    "ru": "молоко",
+    "en": "milk"
+  },
+  {
+    "ro": "rolul",
+    "ru": "роль",
+    "en": "role"
+  },
+  {
+    "ro": "întreg",
+    "ru": "целый",
+    "en": "whole"
+  },
+  {
+    "ro": "tineri",
+    "ru": "молодые",
+    "en": "young people"
+  },
+  {
+    "ro": "descurcat",
+    "ru": "справился",
+    "en": "managed"
+  },
+  {
+    "ro": "judecată",
+    "ru": "суд",
+    "en": "trial"
+  },
+  {
+    "ro": "relaţia",
+    "ru": "отношение",
+    "en": "relationship"
+  },
+  {
+    "ro": "râs",
+    "ru": "смех",
+    "en": "laughter"
+  },
+  {
+    "ro": "aparţine",
+    "ru": "принадлежит",
+    "en": "belongs"
+  },
+  {
+    "ro": "william",
+    "ru": "Уильям",
+    "en": "William"
+  },
+  {
+    "ro": "totusi",
+    "ru": "всё же",
+    "en": "nevertheless"
+  },
+  {
+    "ro": "pleaca",
+    "ru": "уходит",
+    "en": "leaves"
+  },
+  {
+    "ro": "destule",
+    "ru": "достаточно",
+    "en": "enough"
+  },
+  {
+    "ro": "scena",
+    "ru": "сцена",
+    "en": "scene"
+  },
+  {
+    "ro": "uciderea",
+    "ru": "убийство",
+    "en": "murder"
+  },
+  {
+    "ro": "facultate",
+    "ru": "факультет",
+    "en": "faculty"
+  },
+  {
+    "ro": "curs",
+    "ru": "курс",
+    "en": "course"
+  },
+  {
+    "ro": "risc",
+    "ru": "риск",
+    "en": "risk"
+  },
+  {
+    "ro": "excepţia",
+    "ru": "исключение",
+    "en": "exception"
+  },
+  {
+    "ro": "clădire",
+    "ru": "здание",
+    "en": "building"
+  },
+  {
+    "ro": "găseşte",
+    "ru": "находит",
+    "en": "finds"
+  },
+  {
+    "ro": "lasat",
+    "ru": "оставил",
+    "en": "left"
+  },
+  {
+    "ro": "întâlnirea",
+    "ru": "встреча",
+    "en": "meeting"
+  },
+  {
+    "ro": "chef",
+    "ru": "вечеринка",
+    "en": "party"
+  },
+  {
+    "ro": "răspund",
+    "ru": "отвечаю",
+    "en": "I answer"
+  },
+  {
+    "ro": "acceptat",
+    "ru": "принял",
+    "en": "accepted"
+  },
+  {
+    "ro": "căpitan",
+    "ru": "капитан",
+    "en": "captain"
+  },
+  {
+    "ro": "dispari",
+    "ru": "исчезай",
+    "en": "disappear"
+  },
+  {
+    "ro": "verifica",
+    "ru": "проверь",
+    "en": "check"
+  },
+  {
+    "ro": "locuieşte",
+    "ru": "живет",
+    "en": "lives"
+  },
+  {
+    "ro": "nenorocitul",
+    "ru": "ублюдок",
+    "en": "bastard"
+  },
+  {
+    "ro": "suferit",
+    "ru": "пострадал",
+    "en": "suffered"
+  },
+  {
+    "ro": "accept",
+    "ru": "принимаю",
+    "en": "accept"
+  },
+  {
+    "ro": "suport",
+    "ru": "поддержка",
+    "en": "support"
+  },
+  {
+    "ro": "eliberat",
+    "ru": "освобождён",
+    "en": "released"
+  },
+  {
+    "ro": "geanta",
+    "ru": "сумка",
+    "en": "bag"
+  },
+  {
+    "ro": "alan",
+    "ru": "Алан",
+    "en": "Alan"
+  },
+  {
+    "ro": "spart",
+    "ru": "сломал",
+    "en": "broken"
+  },
+  {
+    "ro": "politia",
+    "ru": "полиция",
+    "en": "police"
+  },
+  {
+    "ro": "reuşi",
+    "ru": "смог",
+    "en": "succeeded"
+  },
+  {
+    "ro": "căutarea",
+    "ru": "поиск",
+    "en": "search"
+  },
+  {
+    "ro": "copilului",
+    "ru": "ребёнка",
+    "en": "of the child"
+  },
+  {
+    "ro": "ordinele",
+    "ru": "приказы",
+    "en": "orders"
+  },
+  {
+    "ro": "bilet",
+    "ru": "билет",
+    "en": "ticket"
+  },
+  {
+    "ro": "intotdeauna",
+    "ru": "всегда",
+    "en": "always"
+  },
+  {
+    "ro": "închid",
+    "ru": "закрываю",
+    "en": "I close"
+  },
+  {
+    "ro": "fiului",
+    "ru": "сына",
+    "en": "of the son"
+  },
+  {
+    "ro": "slab",
+    "ru": "слабый",
+    "en": "weak"
+  },
+  {
+    "ro": "soră",
+    "ru": "сестра",
+    "en": "sister"
+  },
+  {
+    "ro": "descurca",
+    "ru": "справиться",
+    "en": "handle"
+  },
+  {
+    "ro": "nevinovat",
+    "ru": "невиновный",
+    "en": "innocent"
+  },
+  {
+    "ro": "oprească",
+    "ru": "остановит",
+    "en": "stop"
+  },
+  {
+    "ro": "opreşti",
+    "ru": "останавливаешь",
+    "en": "you stop"
+  },
+  {
+    "ro": "ascultat",
+    "ru": "слушал",
+    "en": "listened"
+  },
+  {
+    "ro": "naştere",
+    "ru": "рождение",
+    "en": "birth"
+  },
+  {
+    "ro": "deschisă",
+    "ru": "открыта",
+    "en": "open"
+  },
+  {
+    "ro": "fals",
+    "ru": "фальшивый",
+    "en": "false"
+  },
+  {
+    "ro": "obişnuit",
+    "ru": "обычный",
+    "en": "usual"
+  },
+  {
+    "ro": "chuck",
+    "ru": "Чак",
+    "en": "Chuck"
+  },
+  {
+    "ro": "urcă",
+    "ru": "поднимается",
+    "en": "climbs"
+  },
+  {
+    "ro": "refuzat",
+    "ru": "отказал",
+    "en": "refused"
+  },
+  {
+    "ro": "albastru",
+    "ru": "синий",
+    "en": "blue"
+  },
+  {
+    "ro": "discuta",
+    "ru": "обсуждать",
+    "en": "discuss"
+  },
+  {
+    "ro": "altele",
+    "ru": "другие",
+    "en": "others"
+  },
+  {
+    "ro": "gasi",
+    "ru": "найти",
+    "en": "find"
+  },
+  {
+    "ro": "lipsa",
+    "ru": "отсутствие",
+    "en": "lack"
+  },
+  {
+    "ro": "deoparte",
+    "ru": "в сторону",
+    "en": "aside"
+  },
+  {
+    "ro": "raport",
+    "ru": "доклад",
+    "en": "report"
+  },
+  {
+    "ro": "pizza",
+    "ru": "пицца",
+    "en": "pizza"
+  },
+  {
+    "ro": "înteleg",
+    "ru": "понимаю",
+    "en": "I understand"
+  },
+  {
+    "ro": "roma",
+    "ru": "Рим",
+    "en": "Rome"
+  },
+  {
+    "ro": "sotul",
+    "ru": "муж",
+    "en": "husband"
+  },
+  {
+    "ro": "iubitul",
+    "ru": "любимый",
+    "en": "boyfriend"
+  },
+  {
+    "ro": "plajă",
+    "ru": "пляж",
+    "en": "beach"
+  },
+  {
+    "ro": "renunţat",
+    "ru": "отказался",
+    "en": "gave up"
+  },
+  {
+    "ro": "piele",
+    "ru": "кожа",
+    "en": "skin"
+  },
+  {
+    "ro": "distracţie",
+    "ru": "развлечение",
+    "en": "fun"
+  },
+  {
+    "ro": "carl",
+    "ru": "Карл",
+    "en": "Carl"
+  },
+  {
+    "ro": "reusit",
+    "ru": "успешный",
+    "en": "successful"
+  },
+  {
+    "ro": "ocupă",
+    "ru": "занимает",
+    "en": "occupies"
+  },
+  {
+    "ro": "prefera",
+    "ru": "предпочитать",
+    "en": "to prefer"
+  },
+  {
+    "ro": "târfă",
+    "ru": "шлюха",
+    "en": "whore"
+  },
+  {
+    "ro": "părerea",
+    "ru": "мнение",
+    "en": "opinion"
+  },
+  {
+    "ro": "forma",
+    "ru": "форма",
+    "en": "form"
+  },
+  {
+    "ro": "trupul",
+    "ru": "тело",
+    "en": "body"
+  },
+  {
+    "ro": "model",
+    "ru": "модель",
+    "en": "model"
+  },
+  {
+    "ro": "principal",
+    "ru": "основной",
+    "en": "main"
+  },
+  {
+    "ro": "peşte",
+    "ru": "рыба",
+    "en": "fish"
+  },
+  {
+    "ro": "emma",
+    "ru": "Эмма",
+    "en": "Emma"
+  },
+  {
+    "ro": "serie",
+    "ru": "серия",
+    "en": "series"
+  },
+  {
+    "ro": "b",
+    "ru": "б",
+    "en": "b"
+  },
+  {
+    "ro": "îngrozitor",
+    "ru": "ужасный",
+    "en": "terrible"
+  },
+  {
+    "ro": "cînd",
+    "ru": "когда",
+    "en": "when"
+  },
+  {
+    "ro": "semnalul",
+    "ru": "сигнал",
+    "en": "signal"
+  },
+  {
+    "ro": "taie",
+    "ru": "режет",
+    "en": "cuts"
+  },
+  {
+    "ro": "începutul",
+    "ru": "начало",
+    "en": "beginning"
+  },
+  {
+    "ro": "camere",
+    "ru": "комнаты",
+    "en": "rooms"
+  },
+  {
+    "ro": "creier",
+    "ru": "мозг",
+    "en": "brain"
+  },
+  {
+    "ro": "scaun",
+    "ru": "стул",
+    "en": "chair"
+  },
+  {
+    "ro": "înşelat",
+    "ru": "обманутый",
+    "en": "cheated"
+  },
+  {
+    "ro": "doreşte",
+    "ru": "желает",
+    "en": "wants"
+  },
+  {
+    "ro": "cod",
+    "ru": "код",
+    "en": "code"
+  },
+  {
+    "ro": "sentimentele",
+    "ru": "чувства",
+    "en": "feelings"
+  },
+  {
+    "ro": "simon",
+    "ru": "Саймон",
+    "en": "Simon"
+  },
+  {
+    "ro": "uşurel",
+    "ru": "легонько",
+    "en": "gently"
+  },
+  {
+    "ro": "poți",
+    "ru": "можешь",
+    "en": "you can"
+  },
+  {
+    "ro": "adio",
+    "ru": "прощай",
+    "en": "goodbye"
+  },
+  {
+    "ro": "suspect",
+    "ru": "подозреваемый",
+    "en": "suspect"
+  },
+  {
+    "ro": "hârtie",
+    "ru": "бумага",
+    "en": "paper"
+  },
+  {
+    "ro": "lupte",
+    "ru": "бои",
+    "en": "fights"
+  },
+  {
+    "ro": "scap",
+    "ru": "избавляюсь",
+    "en": "escape"
+  },
+  {
+    "ro": "clubul",
+    "ru": "клуб",
+    "en": "the club"
+  },
+  {
+    "ro": "reprezintă",
+    "ru": "представляет",
+    "en": "represents"
+  },
+  {
+    "ro": "lucy",
+    "ru": "Люси",
+    "en": "Lucy"
+  },
+  {
+    "ro": "dovadă",
+    "ru": "доказательство",
+    "en": "proof"
+  },
+  {
+    "ro": "înteles",
+    "ru": "понял",
+    "en": "understood"
+  },
+  {
+    "ro": "pricep",
+    "ru": "понимаю",
+    "en": "I get it"
+  },
+  {
+    "ro": "alice",
+    "ru": "Алиса",
+    "en": "Alice"
+  },
+  {
+    "ro": "obține",
+    "ru": "получает",
+    "en": "obtains"
+  },
+  {
+    "ro": "autobuz",
+    "ru": "автобус",
+    "en": "bus"
+  },
+  {
+    "ro": "arthur",
+    "ru": "Артур",
+    "en": "Arthur"
+  },
+  {
+    "ro": "apropiat",
+    "ru": "близкий",
+    "en": "close"
+  },
+  {
+    "ro": "spuneai",
+    "ru": "ты говорил",
+    "en": "you were saying"
+  },
+  {
+    "ro": "profesorul",
+    "ru": "учитель",
+    "en": "the teacher"
+  },
+  {
+    "ro": "post",
+    "ru": "должность",
+    "en": "position"
+  },
+  {
+    "ro": "încercând",
+    "ru": "перевод_încercând",
+    "en": "translation_încercând"
+  },
+  {
+    "ro": "sută",
+    "ru": "сто",
+    "en": "hundred"
+  },
+  {
+    "ro": "jenny",
+    "ru": "Дженни",
+    "en": "Jenny"
+  },
+  {
+    "ro": "calm",
+    "ru": "спокойствие",
+    "en": "calm"
+  },
+  {
+    "ro": "prefer",
+    "ru": "предпочитаю",
+    "en": "I prefer"
+  },
+  {
+    "ro": "director",
+    "ru": "директор",
+    "en": "director"
+  },
+  {
+    "ro": "folosim",
+    "ru": "используем",
+    "en": "we use"
+  },
+  {
+    "ro": "puncte",
+    "ru": "точки",
+    "en": "points"
+  },
+  {
+    "ro": "sărut",
+    "ru": "поцелуй",
+    "en": "kiss"
+  },
+  {
+    "ro": "imagina",
+    "ru": "представлять",
+    "en": "imagine"
+  },
+  {
+    "ro": "salvez",
+    "ru": "спасаю",
+    "en": "I save"
+  },
+  {
+    "ro": "locotenent",
+    "ru": "лейтенант",
+    "en": "lieutenant"
+  },
+  {
+    "ro": "măsură",
+    "ru": "мера",
+    "en": "measure"
+  },
+  {
+    "ro": "transformat",
+    "ru": "преобразованный",
+    "en": "transformed"
+  },
+  {
+    "ro": "acoperire",
+    "ru": "покрытие",
+    "en": "coverage"
+  },
+  {
+    "ro": "mâncăm",
+    "ru": "едим",
+    "en": "we eat"
+  },
+  {
+    "ro": "plecam",
+    "ru": "уходили",
+    "en": "we were leaving"
+  },
+  {
+    "ro": "ed",
+    "ru": "Эд",
+    "en": "Ed"
+  },
+  {
+    "ro": "concediat",
+    "ru": "уволен",
+    "en": "fired"
+  },
+  {
+    "ro": "curtea",
+    "ru": "двор",
+    "en": "court"
+  },
+  {
+    "ro": "forţa",
+    "ru": "сила",
+    "en": "force"
+  },
+  {
+    "ro": "bară",
+    "ru": "полоса",
+    "en": "bar"
+  },
+  {
+    "ro": "arunc",
+    "ru": "бросаю",
+    "en": "I throw"
+  },
+  {
+    "ro": "ocupi",
+    "ru": "занимаешь",
+    "en": "you occupy"
+  },
+  {
+    "ro": "dumneavoastra",
+    "ru": "вы",
+    "en": "you"
+  },
+  {
+    "ro": "pornit",
+    "ru": "включён",
+    "en": "started"
+  },
+  {
+    "ro": "gay",
+    "ru": "гей",
+    "en": "gay"
+  },
+  {
+    "ro": "biserica",
+    "ru": "церковь",
+    "en": "church"
+  },
+  {
+    "ro": "rochia",
+    "ru": "платье",
+    "en": "dress"
+  },
+  {
+    "ro": "degetul",
+    "ru": "палец",
+    "en": "finger"
+  },
+  {
+    "ro": "devii",
+    "ru": "становишься",
+    "en": "you become"
+  },
+  {
+    "ro": "căsătorie",
+    "ru": "брак",
+    "en": "marriage"
+  },
+  {
+    "ro": "apucat",
+    "ru": "взялся",
+    "en": "grabbed"
+  },
+  {
+    "ro": "arde",
+    "ru": "горит",
+    "en": "burns"
+  },
+  {
+    "ro": "directorul",
+    "ru": "директор",
+    "en": "the director"
+  },
+  {
+    "ro": "codul",
+    "ru": "код",
+    "en": "the code"
+  },
+  {
+    "ro": "monstru",
+    "ru": "монстр",
+    "en": "monster"
+  },
+  {
+    "ro": "înveţi",
+    "ru": "учишь",
+    "en": "you learn"
+  },
+  {
+    "ro": "tie",
+    "ru": "тебе",
+    "en": "to you"
+  },
+  {
+    "ro": "scoţi",
+    "ru": "вынимаешь",
+    "en": "you take out"
+  },
+  {
+    "ro": "tinere",
+    "ru": "молодой человек",
+    "en": "young man"
+  },
+  {
+    "ro": "înnebunit",
+    "ru": "сошёл с ума",
+    "en": "gone mad"
+  },
+  {
+    "ro": "luam",
+    "ru": "брали",
+    "en": "we took"
+  },
+  {
+    "ro": "lucrăm",
+    "ru": "работаем",
+    "en": "we work"
+  },
+  {
+    "ro": "rose",
+    "ru": "Роуз",
+    "en": "Rose"
+  },
+  {
+    "ro": "recent",
+    "ru": "недавно",
+    "en": "recently"
+  },
+  {
+    "ro": "făcute",
+    "ru": "сделанные",
+    "en": "done"
+  },
+  {
+    "ro": "răni",
+    "ru": "раны",
+    "en": "wounds"
+  },
+  {
+    "ro": "acţiune",
+    "ru": "действие",
+    "en": "action"
+  },
+  {
+    "ro": "rahatul",
+    "ru": "дерьмо",
+    "en": "shit"
+  },
+  {
+    "ro": "pariez",
+    "ru": "держу пари",
+    "en": "I bet"
+  },
+  {
+    "ro": "preţ",
+    "ru": "цена",
+    "en": "price"
+  },
+  {
+    "ro": "stabilit",
+    "ru": "установленный",
+    "en": "set"
+  },
+  {
+    "ro": "pistolul",
+    "ru": "пистолет",
+    "en": "the gun"
+  },
+  {
+    "ro": "hank",
+    "ru": "Хэнк",
+    "en": "Hank"
+  },
+  {
+    "ro": "primele",
+    "ru": "первые",
+    "en": "first"
+  },
+  {
+    "ro": "cuplu",
+    "ru": "пара",
+    "en": "couple"
+  },
+  {
+    "ro": "referi",
+    "ru": "относиться",
+    "en": "refer"
+  },
+  {
+    "ro": "astazi",
+    "ru": "сегодня",
+    "en": "today"
+  },
+  {
+    "ro": "terminăm",
+    "ru": "заканчиваем",
+    "en": "we finish"
+  },
+  {
+    "ro": "propriu",
+    "ru": "собственный",
+    "en": "own"
+  },
+  {
+    "ro": "barbat",
+    "ru": "мужчина",
+    "en": "man"
+  },
+  {
+    "ro": "chicago",
+    "ru": "Чикаго",
+    "en": "Chicago"
+  },
+  {
+    "ro": "timpului",
+    "ru": "времени",
+    "en": "of time"
+  },
+  {
+    "ro": "impresia",
+    "ru": "впечатление",
+    "en": "impression"
+  },
+  {
+    "ro": "oribil",
+    "ru": "ужасный",
+    "en": "horrible"
+  },
+  {
+    "ro": "necazuri",
+    "ru": "неприятности",
+    "en": "troubles"
+  },
+  {
+    "ro": "cumpăra",
+    "ru": "покупать",
+    "en": "to buy"
+  },
+  {
+    "ro": "voce",
+    "ru": "голос",
+    "en": "voice"
+  },
+  {
+    "ro": "cazuri",
+    "ru": "случаи",
+    "en": "cases"
+  },
+  {
+    "ro": "porc",
+    "ru": "свинья",
+    "en": "pig"
+  },
+  {
+    "ro": "cariera",
+    "ru": "карьера",
+    "en": "career"
+  },
+  {
+    "ro": "bombă",
+    "ru": "бомба",
+    "en": "bomb"
+  },
+  {
+    "ro": "inelul",
+    "ru": "кольцо",
+    "en": "the ring"
+  },
+  {
+    "ro": "costă",
+    "ru": "стоит",
+    "en": "costs"
+  },
+  {
+    "ro": "experienţă",
+    "ru": "опыт",
+    "en": "experience"
+  },
+  {
+    "ro": "cinste",
+    "ru": "честь",
+    "en": "honor"
+  },
+  {
+    "ro": "umană",
+    "ru": "человеческая",
+    "en": "human"
+  },
+  {
+    "ro": "client",
+    "ru": "клиент",
+    "en": "client"
+  },
+  {
+    "ro": "omoară",
+    "ru": "убивает",
+    "en": "kills"
+  },
+  {
+    "ro": "nas",
+    "ru": "нос",
+    "en": "nose"
+  },
+  {
+    "ro": "anglia",
+    "ru": "Англия",
+    "en": "England"
+  },
+  {
+    "ro": "cadavru",
+    "ru": "труп",
+    "en": "corpse"
+  },
+  {
+    "ro": "planetă",
+    "ru": "планета",
+    "en": "planet"
+  },
+  {
+    "ro": "veste",
+    "ru": "новость",
+    "en": "news"
+  },
+  {
+    "ro": "cumperi",
+    "ru": "покупаешь",
+    "en": "you buy"
+  },
+  {
+    "ro": "gary",
+    "ru": "Гэри",
+    "en": "Gary"
+  },
+  {
+    "ro": "sperie",
+    "ru": "пугает",
+    "en": "scares"
+  },
+  {
+    "ro": "scumpule",
+    "ru": "дорогой",
+    "en": "darling"
+  },
+  {
+    "ro": "bagi",
+    "ru": "вставляешь",
+    "en": "you insert"
+  },
+  {
+    "ro": "binele",
+    "ru": "благо",
+    "en": "the good"
+  },
+  {
+    "ro": "vai",
+    "ru": "увы",
+    "en": "oh dear"
+  },
+  {
+    "ro": "pantofi",
+    "ru": "туфли",
+    "en": "shoes"
+  },
+  {
+    "ro": "potriveşte",
+    "ru": "подходит",
+    "en": "fits"
+  },
+  {
+    "ro": "phil",
+    "ru": "Фил",
+    "en": "Phil"
+  },
+  {
+    "ro": "razna",
+    "ru": "с ума",
+    "en": "crazy"
+  },
+  {
+    "ro": "cântec",
+    "ru": "песня",
+    "en": "song"
+  },
+  {
+    "ro": "aducem",
+    "ru": "приносим",
+    "en": "we bring"
+  },
+  {
+    "ro": "minciună",
+    "ru": "ложь",
+    "en": "lie"
+  },
+  {
+    "ro": "teme",
+    "ru": "уроки",
+    "en": "homework"
+  },
+  {
+    "ro": "cai",
+    "ru": "лошади",
+    "en": "horses"
+  },
+  {
+    "ro": "dovedit",
+    "ru": "доказанный",
+    "en": "proven"
+  },
+  {
+    "ro": "jackson",
+    "ru": "Джексон",
+    "en": "Jackson"
+  },
+  {
+    "ro": "inclusiv",
+    "ru": "включая",
+    "en": "including"
+  },
+  {
+    "ro": "poliţişti",
+    "ru": "полицейские",
+    "en": "policemen"
+  },
+  {
+    "ro": "recunoscut",
+    "ru": "признанный",
+    "en": "recognized"
+  },
+  {
+    "ro": "bomba",
+    "ru": "бомба",
+    "en": "bomb"
+  },
+  {
+    "ro": "deschid",
+    "ru": "открываю",
+    "en": "I open"
+  },
+  {
+    "ro": "aeroport",
+    "ru": "аэропорт",
+    "en": "airport"
+  },
+  {
+    "ro": "calul",
+    "ru": "лошадь",
+    "en": "the horse"
+  },
+  {
+    "ro": "capabil",
+    "ru": "способный",
+    "en": "capable"
+  },
+  {
+    "ro": "făcând",
+    "ru": "делая",
+    "en": "doing"
+  },
+  {
+    "ro": "semnat",
+    "ru": "подписанный",
+    "en": "signed"
+  },
+  {
+    "ro": "sint",
+    "ru": "есть",
+    "en": "am"
+  },
+  {
+    "ro": "joace",
+    "ru": "играть",
+    "en": "to play"
+  },
+  {
+    "ro": "subiect",
+    "ru": "тема",
+    "en": "subject"
+  },
+  {
+    "ro": "ridică",
+    "ru": "поднимает",
+    "en": "lifts"
+  },
+  {
+    "ro": "ciudate",
+    "ru": "странные",
+    "en": "weird"
+  },
+  {
+    "ro": "camion",
+    "ru": "грузовик",
+    "en": "truck"
+  },
+  {
+    "ro": "devină",
+    "ru": "стать",
+    "en": "to become"
+  },
+  {
+    "ro": "deştept",
+    "ru": "умный",
+    "en": "smart"
+  },
+  {
+    "ro": "josh",
+    "ru": "Джош",
+    "en": "Josh"
+  },
+  {
+    "ro": "vroia",
+    "ru": "хотел",
+    "en": "wanted"
+  },
+  {
+    "ro": "perioada",
+    "ru": "период",
+    "en": "period"
+  },
+  {
+    "ro": "vremuri",
+    "ru": "времена",
+    "en": "times"
+  },
+  {
+    "ro": "miros",
+    "ru": "запах",
+    "en": "smell"
+  },
+  {
+    "ro": "slavă",
+    "ru": "слава",
+    "en": "glory"
+  },
+  {
+    "ro": "complicat",
+    "ru": "сложный",
+    "en": "complicated"
+  },
+  {
+    "ro": "gratis",
+    "ru": "бесплатно",
+    "en": "free"
+  },
+  {
+    "ro": "procesul",
+    "ru": "процесс",
+    "en": "the process"
+  },
+  {
+    "ro": "soarta",
+    "ru": "судьба",
+    "en": "fate"
+  },
+  {
+    "ro": "copac",
+    "ru": "дерево",
+    "en": "tree"
+  },
+  {
+    "ro": "vara",
+    "ru": "лето",
+    "en": "summer"
+  },
+  {
+    "ro": "ţinem",
+    "ru": "держим",
+    "en": "we hold"
+  },
+  {
+    "ro": "mirosul",
+    "ru": "запах",
+    "en": "the smell"
+  },
+  {
+    "ro": "pantaloni",
+    "ru": "брюки",
+    "en": "pants"
+  },
+  {
+    "ro": "înţelegeţi",
+    "ru": "понимаете",
+    "en": "you understand"
+  },
+  {
+    "ro": "vieţile",
+    "ru": "жизни",
+    "en": "lives"
+  },
+  {
+    "ro": "catre",
+    "ru": "к",
+    "en": "toward"
+  },
+  {
+    "ro": "extraordinar",
+    "ru": "необыкновенный",
+    "en": "extraordinary"
+  },
+  {
+    "ro": "întreagă",
+    "ru": "вся",
+    "en": "whole"
+  },
+  {
+    "ro": "van",
+    "ru": "фургон",
+    "en": "van"
+  },
+  {
+    "ro": "viteza",
+    "ru": "скорость",
+    "en": "speed"
+  },
+  {
+    "ro": "siguri",
+    "ru": "уверенные",
+    "en": "sure"
+  },
+  {
+    "ro": "doarme",
+    "ru": "спит",
+    "en": "sleeps"
+  },
+  {
+    "ro": "întreabă",
+    "ru": "спрашивает",
+    "en": "asks"
+  },
+  {
+    "ro": "adevarul",
+    "ru": "правда",
+    "en": "truth"
+  },
+  {
+    "ro": "prindem",
+    "ru": "поймаем",
+    "en": "we catch"
+  },
+  {
+    "ro": "ghici",
+    "ru": "угадай",
+    "en": "guess"
+  },
+  {
+    "ro": "regelui",
+    "ru": "короля",
+    "en": "of the king"
+  },
+  {
+    "ro": "ascunzi",
+    "ru": "прячешь",
+    "en": "you hide"
+  },
+  {
+    "ro": "întregi",
+    "ru": "целые",
+    "en": "whole"
+  },
+  {
+    "ro": "obţinut",
+    "ru": "полученный",
+    "en": "obtained"
+  },
+  {
+    "ro": "scrii",
+    "ru": "пишешь",
+    "en": "you write"
+  },
+  {
+    "ro": "refer",
+    "ru": "ссылаюсь",
+    "en": "refer"
+  },
+  {
+    "ro": "rămânem",
+    "ru": "остаёмся",
+    "en": "we stay"
+  },
+  {
+    "ro": "piept",
+    "ru": "грудь",
+    "en": "chest"
+  },
+  {
+    "ro": "mijloc",
+    "ru": "середина",
+    "en": "middle"
+  },
+  {
+    "ro": "calitate",
+    "ru": "качество",
+    "en": "quality"
+  },
+  {
+    "ro": "schimbe",
+    "ru": "изменить",
+    "en": "to change"
+  },
+  {
+    "ro": "louis",
+    "ru": "Луис",
+    "en": "Louis"
+  },
+  {
+    "ro": "internet",
+    "ru": "интернет",
+    "en": "internet"
+  },
+  {
+    "ro": "colonel",
+    "ru": "полковник",
+    "en": "colonel"
+  },
+  {
+    "ro": "imagine",
+    "ru": "изображение",
+    "en": "image"
+  },
+  {
+    "ro": "pantalonii",
+    "ru": "штаны",
+    "en": "the pants"
+  },
+  {
+    "ro": "alegere",
+    "ru": "выбор",
+    "en": "choice"
+  },
+  {
+    "ro": "discuţie",
+    "ru": "обсуждение",
+    "en": "discussion"
+  },
+  {
+    "ro": "ticălos",
+    "ru": "негодяй",
+    "en": "scoundrel"
+  },
+  {
+    "ro": "joey",
+    "ru": "Джоуи",
+    "en": "Joey"
+  },
+  {
+    "ro": "respiră",
+    "ru": "дышит",
+    "en": "breathes"
+  },
+  {
+    "ro": "weekend",
+    "ru": "выходные",
+    "en": "weekend"
+  },
+  {
+    "ro": "păstra",
+    "ru": "сохранять",
+    "en": "to keep"
+  },
+  {
+    "ro": "norocul",
+    "ru": "удача",
+    "en": "luck"
+  },
+  {
+    "ro": "medicamente",
+    "ru": "лекарства",
+    "en": "medicines"
+  },
+  {
+    "ro": "lege",
+    "ru": "закон",
+    "en": "law"
+  },
+  {
+    "ro": "cândva",
+    "ru": "когда-то",
+    "en": "sometime"
+  },
+  {
+    "ro": "fred",
+    "ru": "Фред",
+    "en": "Fred"
+  },
+  {
+    "ro": "pistol",
+    "ru": "пистолет",
+    "en": "gun"
+  },
+  {
+    "ro": "momente",
+    "ru": "моменты",
+    "en": "moments"
+  },
+  {
+    "ro": "verifică",
+    "ru": "проверяет",
+    "en": "checks"
+  },
+  {
+    "ro": "petrec",
+    "ru": "провожу",
+    "en": "I spend"
+  },
+  {
+    "ro": "cărţile",
+    "ru": "книги",
+    "en": "the books"
+  },
+  {
+    "ro": "clientul",
+    "ru": "клиент",
+    "en": "the client"
+  },
+  {
+    "ro": "carter",
+    "ru": "Картер",
+    "en": "Carter"
+  },
+  {
+    "ro": "idei",
+    "ru": "идеи",
+    "en": "ideas"
+  },
+  {
+    "ro": "miss",
+    "ru": "мисс",
+    "en": "miss"
+  },
+  {
+    "ro": "simplă",
+    "ru": "простая",
+    "en": "simple"
+  },
+  {
+    "ro": "iesit",
+    "ru": "вышел",
+    "en": "went out"
+  },
+  {
+    "ro": "sperii",
+    "ru": "пугаю",
+    "en": "I scare"
+  },
+  {
+    "ro": "serviciul",
+    "ru": "служба",
+    "en": "the service"
+  },
+  {
+    "ro": "sat",
+    "ru": "деревня",
+    "en": "village"
+  },
+  {
+    "ro": "termini",
+    "ru": "заканчиваешь",
+    "en": "you finish"
+  },
+  {
+    "ro": "cheie",
+    "ru": "ключ",
+    "en": "key"
+  },
+  {
+    "ro": "reveni",
+    "ru": "вернуться",
+    "en": "to return"
+  },
+  {
+    "ro": "minune",
+    "ru": "чудо",
+    "en": "miracle"
+  },
+  {
+    "ro": "citi",
+    "ru": "читать",
+    "en": "to read"
+  },
+  {
+    "ro": "nebuni",
+    "ru": "сумасшедшие",
+    "en": "crazy people"
+  },
+  {
+    "ro": "dean",
+    "ru": "Дин",
+    "en": "Dean"
+  },
+  {
+    "ro": "detalii",
+    "ru": "детали",
+    "en": "details"
+  },
+  {
+    "ro": "morgan",
+    "ru": "Морган",
+    "en": "Morgan"
+  },
+  {
+    "ro": "probe",
+    "ru": "доказательства",
+    "en": "evidence"
+  },
+  {
+    "ro": "glumesc",
+    "ru": "шучу",
+    "en": "I'm joking"
+  },
+  {
+    "ro": "plăteşti",
+    "ru": "платишь",
+    "en": "you pay"
+  },
+  {
+    "ro": "conteaza",
+    "ru": "имеет значение",
+    "en": "matters"
+  },
+  {
+    "ro": "uman",
+    "ru": "человеческий",
+    "en": "human"
+  },
+  {
+    "ro": "privesc",
+    "ru": "смотрю",
+    "en": "I watch"
+  },
+  {
+    "ro": "ucizi",
+    "ru": "убиваешь",
+    "en": "you kill"
+  },
+  {
+    "ro": "caute",
+    "ru": "искать",
+    "en": "to search"
+  },
+  {
+    "ro": "învăţ",
+    "ru": "учу",
+    "en": "I learn"
+  },
+  {
+    "ro": "fotografii",
+    "ru": "фотографии",
+    "en": "photos"
+  },
+  {
+    "ro": "probă",
+    "ru": "доказательство",
+    "en": "proof"
+  },
+  {
+    "ro": "câştig",
+    "ru": "выигрыш",
+    "en": "win"
+  },
+  {
+    "ro": "sport",
+    "ru": "спорт",
+    "en": "sport"
+  },
+  {
+    "ro": "testul",
+    "ru": "тест",
+    "en": "the test"
+  },
+  {
+    "ro": "cinstit",
+    "ru": "честный",
+    "en": "honest"
+  },
+  {
+    "ro": "podea",
+    "ru": "пол",
+    "en": "floor"
+  },
+  {
+    "ro": "partener",
+    "ru": "партнёр",
+    "en": "partner"
+  },
+  {
+    "ro": "aleg",
+    "ru": "выбираю",
+    "en": "I choose"
+  },
+  {
+    "ro": "astept",
+    "ru": "жду",
+    "en": "I wait"
+  },
+  {
+    "ro": "alegerea",
+    "ru": "выбор",
+    "en": "the choice"
+  },
+  {
+    "ro": "oferă",
+    "ru": "предлагает",
+    "en": "offers"
+  },
+  {
+    "ro": "perete",
+    "ru": "стена",
+    "en": "wall"
+  },
+  {
+    "ro": "schimbi",
+    "ru": "меняешь",
+    "en": "you change"
+  },
+  {
+    "ro": "voiai",
+    "ru": "хотел",
+    "en": "you wanted"
+  },
+  {
+    "ro": "plăcerea",
+    "ru": "удовольствие",
+    "en": "pleasure"
+  },
+  {
+    "ro": "susan",
+    "ru": "Сьюзан",
+    "en": "Susan"
+  },
+  {
+    "ro": "credea",
+    "ru": "думал",
+    "en": "thought"
+  },
+  {
+    "ro": "clădirea",
+    "ru": "здание",
+    "en": "the building"
+  },
+  {
+    "ro": "piatră",
+    "ru": "камень",
+    "en": "stone"
+  },
+  {
+    "ro": "aude",
+    "ru": "слышит",
+    "en": "hears"
+  },
+  {
+    "ro": "termine",
+    "ru": "закончит",
+    "en": "to finish"
+  },
+  {
+    "ro": "credit",
+    "ru": "кредит",
+    "en": "credit"
+  },
+  {
+    "ro": "gandit",
+    "ru": "подумал",
+    "en": "thought"
+  },
+  {
+    "ro": "taylor",
+    "ru": "Тейлор",
+    "en": "Taylor"
+  },
+  {
+    "ro": "grade",
+    "ru": "градусы",
+    "en": "degrees"
+  },
+  {
+    "ro": "arunci",
+    "ru": "бросаешь",
+    "en": "you throw"
+  },
+  {
+    "ro": "căutaţi",
+    "ru": "ищете",
+    "en": "you search"
+  },
+  {
+    "ro": "dragut",
+    "ru": "милый",
+    "en": "cute"
+  },
+  {
+    "ro": "chema",
+    "ru": "звать",
+    "en": "to call"
+  },
+  {
+    "ro": "cancer",
+    "ru": "рак",
+    "en": "cancer"
+  },
+  {
+    "ro": "spectacolul",
+    "ru": "представление",
+    "en": "the show"
+  },
+  {
+    "ro": "victime",
+    "ru": "жертвы",
+    "en": "victims"
+  },
+  {
+    "ro": "europa",
+    "ru": "Европа",
+    "en": "Europe"
+  },
+  {
+    "ro": "semnal",
+    "ru": "сигнал",
+    "en": "signal"
+  },
+  {
+    "ro": "supraveghere",
+    "ru": "наблюдение",
+    "en": "surveillance"
+  },
+  {
+    "ro": "sărit",
+    "ru": "прыгнул",
+    "en": "jumped"
+  },
+  {
+    "ro": "haideti",
+    "ru": "давайте",
+    "en": "let's"
+  },
+  {
+    "ro": "acelea",
+    "ru": "те",
+    "en": "those"
+  },
+  {
+    "ro": "apar",
+    "ru": "появляются",
+    "en": "appear"
+  },
+  {
+    "ro": "generalul",
+    "ru": "генерал",
+    "en": "the general"
+  },
+  {
+    "ro": "alegi",
+    "ru": "выбираешь",
+    "en": "you choose"
+  },
+  {
+    "ro": "yeah",
+    "ru": "ага",
+    "en": "yeah"
+  },
+  {
+    "ro": "stele",
+    "ru": "звёзды",
+    "en": "stars"
+  },
+  {
+    "ro": "fereastră",
+    "ru": "окно",
+    "en": "window"
+  },
+  {
+    "ro": "lovitura",
+    "ru": "удар",
+    "en": "the hit"
+  },
+  {
+    "ro": "julie",
+    "ru": "Джули",
+    "en": "Julie"
+  },
+  {
+    "ro": "fotografie",
+    "ru": "фотография",
+    "en": "photograph"
+  },
+  {
+    "ro": "vând",
+    "ru": "продаю",
+    "en": "I sell"
+  },
+  {
+    "ro": "fericiţi",
+    "ru": "счастливы",
+    "en": "happy"
+  },
+  {
+    "ro": "priviţi",
+    "ru": "смотрите",
+    "en": "you look"
+  },
+  {
+    "ro": "fugă",
+    "ru": "бегство",
+    "en": "escape"
+  },
+  {
+    "ro": "grace",
+    "ru": "Грейс",
+    "en": "Grace"
+  },
+  {
+    "ro": "fostul",
+    "ru": "бывший",
+    "en": "former"
+  },
+  {
+    "ro": "operaţie",
+    "ru": "операция",
+    "en": "surgery"
+  },
+  {
+    "ro": "plătească",
+    "ru": "заплатит",
+    "en": "to pay"
+  },
+  {
+    "ro": "înalt",
+    "ru": "высокий",
+    "en": "tall"
+  },
+  {
+    "ro": "roger",
+    "ru": "Роджер",
+    "en": "Roger"
+  },
+  {
+    "ro": "ajutăm",
+    "ru": "помогаем",
+    "en": "we help"
+  },
+  {
+    "ro": "aiurea",
+    "ru": "чушь",
+    "en": "nonsense"
+  },
+  {
+    "ro": "câştigă",
+    "ru": "выигрывает",
+    "en": "wins"
+  },
+  {
+    "ro": "anunţ",
+    "ru": "объявление",
+    "en": "announcement"
+  },
+  {
+    "ro": "lire",
+    "ru": "фунты",
+    "en": "pounds"
+  },
+  {
+    "ro": "permisiunea",
+    "ru": "разрешение",
+    "en": "permission"
+  },
+  {
+    "ro": "şefule",
+    "ru": "шеф",
+    "en": "boss"
+  },
+  {
+    "ro": "comandă",
+    "ru": "приказ",
+    "en": "command"
+  },
+  {
+    "ro": "contra",
+    "ru": "против",
+    "en": "against"
+  },
+  {
+    "ro": "privind",
+    "ru": "смотря",
+    "en": "looking"
+  },
+  {
+    "ro": "uiti",
+    "ru": "забываешь",
+    "en": "you forget"
+  },
+  {
+    "ro": "stilul",
+    "ru": "стиль",
+    "en": "the style"
+  },
+  {
+    "ro": "afacerile",
+    "ru": "бизнес",
+    "en": "business"
+  },
+  {
+    "ro": "încercare",
+    "ru": "попытка",
+    "en": "attempt"
+  },
+  {
+    "ro": "ura",
+    "ru": "ненависть",
+    "en": "hatred"
+  },
+  {
+    "ro": "acuzat",
+    "ru": "обвинён",
+    "en": "accused"
+  },
+  {
+    "ro": "parc",
+    "ru": "парк",
+    "en": "park"
+  },
+  {
+    "ro": "medic",
+    "ru": "врач",
+    "en": "doctor"
+  },
+  {
+    "ro": "învăţa",
+    "ru": "учить",
+    "en": "to learn"
+  },
+  {
+    "ro": "cursul",
+    "ru": "курс",
+    "en": "course"
+  },
+  {
+    "ro": "clasă",
+    "ru": "класс",
+    "en": "class"
+  },
+  {
+    "ro": "înceapă",
+    "ru": "начнёт",
+    "en": "starts"
+  },
+  {
+    "ro": "ceas",
+    "ru": "часы",
+    "en": "watch"
+  },
+  {
+    "ro": "rock",
+    "ru": "рок",
+    "en": "rock"
+  },
+  {
+    "ro": "rochie",
+    "ru": "платье",
+    "en": "dress"
+  },
+  {
+    "ro": "salveze",
+    "ru": "спасти",
+    "en": "to save"
+  },
+  {
+    "ro": "lady",
+    "ru": "леди",
+    "en": "lady"
+  },
+  {
+    "ro": "camerele",
+    "ru": "комнаты",
+    "en": "rooms"
+  },
+  {
+    "ro": "bolnavă",
+    "ru": "больная",
+    "en": "sick"
+  },
+  {
+    "ro": "mătuşa",
+    "ru": "тётя",
+    "en": "aunt"
+  },
+  {
+    "ro": "umane",
+    "ru": "человеческие",
+    "en": "human"
+  },
+  {
+    "ro": "dovedi",
+    "ru": "доказать",
+    "en": "to prove"
+  },
+  {
+    "ro": "proaste",
+    "ru": "плохие",
+    "en": "bad"
+  },
+  {
+    "ro": "conducere",
+    "ru": "руководство",
+    "en": "leadership"
+  },
+  {
+    "ro": "zero",
+    "ru": "ноль",
+    "en": "zero"
+  },
+  {
+    "ro": "jocuri",
+    "ru": "игры",
+    "en": "games"
+  },
+  {
+    "ro": "intrare",
+    "ru": "вход",
+    "en": "entrance"
+  },
+  {
+    "ro": "laura",
+    "ru": "Лаура",
+    "en": "Laura"
+  },
+  {
+    "ro": "speranţă",
+    "ru": "надежда",
+    "en": "hope"
+  },
+  {
+    "ro": "locurile",
+    "ru": "места",
+    "en": "places"
+  },
+  {
+    "ro": "rezultatele",
+    "ru": "результаты",
+    "en": "results"
+  },
+  {
+    "ro": "r",
+    "ru": "р",
+    "en": "r"
+  },
+  {
+    "ro": "acuma",
+    "ru": "сейчас",
+    "en": "now"
+  },
+  {
+    "ro": "deranjez",
+    "ru": "беспокою",
+    "en": "I disturb"
+  },
+  {
+    "ro": "imaginea",
+    "ru": "изображение",
+    "en": "the image"
+  },
+  {
+    "ro": "cursă",
+    "ru": "гонка",
+    "en": "race"
+  },
+  {
+    "ro": "pantofii",
+    "ru": "туфли",
+    "en": "the shoes"
+  },
+  {
+    "ro": "rezista",
+    "ru": "сопротивляться",
+    "en": "resist"
+  },
+  {
+    "ro": "îndoiesc",
+    "ru": "сомневаюсь",
+    "en": "I doubt"
+  },
+  {
+    "ro": "pt",
+    "ru": "для",
+    "en": "for"
+  },
+  {
+    "ro": "sua",
+    "ru": "США",
+    "en": "USA"
+  },
+  {
+    "ro": "folos",
+    "ru": "польза",
+    "en": "use"
+  },
+  {
+    "ro": "puştiul",
+    "ru": "мальчишка",
+    "en": "the kid"
+  },
+  {
+    "ro": "săi",
+    "ru": "его",
+    "en": "his"
+  },
+  {
+    "ro": "serioasă",
+    "ru": "серьёзная",
+    "en": "serious"
+  },
+  {
+    "ro": "modalitate",
+    "ru": "способ",
+    "en": "method"
+  },
+  {
+    "ro": "karen",
+    "ru": "Карен",
+    "en": "Karen"
+  },
+  {
+    "ro": "lasi",
+    "ru": "оставляешь",
+    "en": "you leave"
+  },
+  {
+    "ro": "ocazie",
+    "ru": "возможность",
+    "en": "opportunity"
+  },
+  {
+    "ro": "victimă",
+    "ru": "жертва",
+    "en": "victim"
+  },
+  {
+    "ro": "city",
+    "ru": "город",
+    "en": "city"
+  },
+  {
+    "ro": "speciale",
+    "ru": "особые",
+    "en": "special"
+  },
+  {
+    "ro": "fratelui",
+    "ru": "брата",
+    "en": "of the brother"
+  },
+  {
+    "ro": "libertate",
+    "ru": "свобода",
+    "en": "freedom"
+  },
+  {
+    "ro": "los",
+    "ru": "лос",
+    "en": "los"
+  },
+  {
+    "ro": "ho",
+    "ru": "эй",
+    "en": "hey"
+  },
+  {
+    "ro": "spitalul",
+    "ru": "больница",
+    "en": "the hospital"
+  },
+  {
+    "ro": "miere",
+    "ru": "мёд",
+    "en": "honey"
+  },
+  {
+    "ro": "treilea",
+    "ru": "третий",
+    "en": "third"
+  },
+  {
+    "ro": "omului",
+    "ru": "человека",
+    "en": "of the man"
+  },
+  {
+    "ro": "scapă",
+    "ru": "избавляется",
+    "en": "escapes"
+  },
+  {
+    "ro": "victor",
+    "ru": "Виктор",
+    "en": "Victor"
+  },
+  {
+    "ro": "case",
+    "ru": "дома",
+    "en": "houses"
+  },
+  {
+    "ro": "cânta",
+    "ru": "петь",
+    "en": "to sing"
+  },
+  {
+    "ro": "maggie",
+    "ru": "Мэгги",
+    "en": "Maggie"
+  },
+  {
+    "ro": "red",
+    "ru": "Красный",
+    "en": "Red"
+  },
+  {
+    "ro": "tribunal",
+    "ru": "суд",
+    "en": "court"
+  },
+  {
+    "ro": "grupul",
+    "ru": "группа",
+    "en": "the group"
+  },
+  {
+    "ro": "genunchi",
+    "ru": "колени",
+    "en": "knees"
+  },
+  {
+    "ro": "vacanţă",
+    "ru": "отпуск",
+    "en": "vacation"
+  },
+  {
+    "ro": "dlui",
+    "ru": "г-на",
+    "en": "Mr."
+  },
+  {
+    "ro": "însemna",
+    "ru": "означать",
+    "en": "to mean"
+  },
+  {
+    "ro": "sara",
+    "ru": "Сара",
+    "en": "Sara"
+  },
+  {
+    "ro": "comandantul",
+    "ru": "командир",
+    "en": "the commander"
+  },
+  {
+    "ro": "amin",
+    "ru": "аминь",
+    "en": "amen"
+  },
+  {
+    "ro": "urmat",
+    "ru": "следовал",
+    "en": "followed"
+  },
+  {
+    "ro": "zicem",
+    "ru": "говорим",
+    "en": "we say"
+  },
+  {
+    "ro": "california",
+    "ru": "Калифорния",
+    "en": "California"
+  },
+  {
+    "ro": "barcă",
+    "ru": "лодка",
+    "en": "boat"
+  },
+  {
+    "ro": "ştiri",
+    "ru": "новости",
+    "en": "news"
+  },
+  {
+    "ro": "smith",
+    "ru": "Смит",
+    "en": "Smith"
+  },
+  {
+    "ro": "fine",
+    "ru": "отлично",
+    "en": "fine"
+  },
+  {
+    "ro": "rupe",
+    "ru": "ломает",
+    "en": "breaks"
+  },
+  {
+    "ro": "ooh",
+    "ru": "оох",
+    "en": "ooh"
+  },
+  {
+    "ro": "pregătesc",
+    "ru": "готовлю",
+    "en": "I prepare"
+  },
+  {
+    "ro": "propriile",
+    "ru": "свои собственные",
+    "en": "own"
+  },
+  {
+    "ro": "îsi",
+    "ru": "себе",
+    "en": "himself/herself"
+  },
+  {
+    "ro": "roşie",
+    "ru": "красная",
+    "en": "red"
+  },
+  {
+    "ro": "spiritul",
+    "ru": "дух",
+    "en": "spirit"
+  },
+  {
+    "ro": "criminalul",
+    "ru": "преступник",
+    "en": "the criminal"
+  },
+  {
+    "ro": "oferta",
+    "ru": "предложение",
+    "en": "offer"
+  },
+  {
+    "ro": "aceştia",
+    "ru": "эти",
+    "en": "these"
+  },
+  {
+    "ro": "gândim",
+    "ru": "думаем",
+    "en": "we think"
+  },
+  {
+    "ro": "cind",
+    "ru": "когда",
+    "en": "when"
+  },
+  {
+    "ro": "sunteți",
+    "ru": "вы есть",
+    "en": "you are"
+  },
+  {
+    "ro": "cauta",
+    "ru": "искать",
+    "en": "to search"
+  },
+  {
+    "ro": "uitam",
+    "ru": "забывали",
+    "en": "we forgot"
+  },
+  {
+    "ro": "ați",
+    "ru": "вы",
+    "en": "you (past auxiliary)"
+  },
+  {
+    "ro": "celui",
+    "ru": "того",
+    "en": "of the one"
+  },
+  {
+    "ro": "consiliul",
+    "ru": "совет",
+    "en": "council"
+  },
+  {
+    "ro": "scaunul",
+    "ru": "стул",
+    "en": "the chair"
+  },
+  {
+    "ro": "urmăresc",
+    "ru": "следят",
+    "en": "follow"
+  },
+  {
+    "ro": "dovada",
+    "ru": "доказательство",
+    "en": "proof"
+  },
+  {
+    "ro": "sase",
+    "ru": "шесть",
+    "en": "six"
+  },
+  {
+    "ro": "big",
+    "ru": "большой",
+    "en": "big"
+  },
+  {
+    "ro": "fraţii",
+    "ru": "братья",
+    "en": "brothers"
+  },
+  {
+    "ro": "aventură",
+    "ru": "приключение",
+    "en": "adventure"
+  },
+  {
+    "ro": "cântă",
+    "ru": "поёт",
+    "en": "sings"
+  },
+  {
+    "ro": "sâmbătă",
+    "ru": "суббота",
+    "en": "Saturday"
+  },
+  {
+    "ro": "puşti",
+    "ru": "пацан",
+    "en": "kid"
+  },
+  {
+    "ro": "domn",
+    "ru": "господин",
+    "en": "sir"
+  },
+  {
+    "ro": "lily",
+    "ru": "Лили",
+    "en": "Lily"
+  },
+  {
+    "ro": "u",
+    "ru": "ю",
+    "en": "u"
+  },
+  {
+    "ro": "maior",
+    "ru": "майор",
+    "en": "major"
+  },
+  {
+    "ro": "trăim",
+    "ru": "живём",
+    "en": "we live"
+  },
+  {
+    "ro": "controla",
+    "ru": "контролировать",
+    "en": "to control"
+  },
+  {
+    "ro": "julia",
+    "ru": "Джулия",
+    "en": "Julia"
+  },
+  {
+    "ro": "amintit",
+    "ru": "вспомнил",
+    "en": "remembered"
+  },
+  {
+    "ro": "iubi",
+    "ru": "любить",
+    "en": "to love"
+  },
+  {
+    "ro": "fetiţă",
+    "ru": "девочка",
+    "en": "girl"
+  },
+  {
+    "ro": "sari",
+    "ru": "прыгай",
+    "en": "jump"
+  },
+  {
+    "ro": "planurile",
+    "ru": "планы",
+    "en": "plans"
+  },
+  {
+    "ro": "vorbea",
+    "ru": "говорил",
+    "en": "was talking"
+  },
+  {
+    "ro": "colonele",
+    "ru": "полковник",
+    "en": "colonel"
+  },
+  {
+    "ro": "victoria",
+    "ru": "Виктория",
+    "en": "Victoria"
+  },
+  {
+    "ro": "patrick",
+    "ru": "Патрик",
+    "en": "Patrick"
+  },
+  {
+    "ro": "prezenta",
+    "ru": "представлять",
+    "en": "to present"
+  },
+  {
+    "ro": "gaură",
+    "ru": "дыра",
+    "en": "hole"
+  },
+  {
+    "ro": "amanda",
+    "ru": "Аманда",
+    "en": "Amanda"
+  },
+  {
+    "ro": "reguli",
+    "ru": "правила",
+    "en": "rules"
+  },
+  {
+    "ro": "ordinul",
+    "ru": "приказ",
+    "en": "order"
+  },
+  {
+    "ro": "abby",
+    "ru": "Эбби",
+    "en": "Abby"
+  },
+  {
+    "ro": "tipule",
+    "ru": "парень",
+    "en": "dude"
+  },
+  {
+    "ro": "părăsi",
+    "ru": "покинуть",
+    "en": "to leave"
+  },
+  {
+    "ro": "poliţiştii",
+    "ru": "полицейские",
+    "en": "the policemen"
+  },
+  {
+    "ro": "râde",
+    "ru": "смеётся",
+    "en": "laughs"
+  },
+  {
+    "ro": "bătrânul",
+    "ru": "старик",
+    "en": "the old man"
+  },
+  {
+    "ro": "apropiere",
+    "ru": "приближение",
+    "en": "proximity"
+  },
+  {
+    "ro": "costa",
+    "ru": "стоить",
+    "en": "to cost"
+  },
+  {
+    "ro": "dezastru",
+    "ru": "катастрофа",
+    "en": "disaster"
+  },
+  {
+    "ro": "me",
+    "ru": "меня",
+    "en": "me"
+  },
+  {
+    "ro": "energia",
+    "ru": "энергия",
+    "en": "energy"
+  },
+  {
+    "ro": "pacient",
+    "ru": "пациент",
+    "en": "patient"
+  },
+  {
+    "ro": "sentiment",
+    "ru": "чувство",
+    "en": "feeling"
+  },
+  {
+    "ro": "onoarea",
+    "ru": "честь",
+    "en": "honor"
+  },
+  {
+    "ro": "baţi",
+    "ru": "бьёшь",
+    "en": "you hit"
+  },
+  {
+    "ro": "placi",
+    "ru": "нравятся",
+    "en": "you like"
+  },
+  {
+    "ro": "dispus",
+    "ru": "готов",
+    "en": "willing"
+  },
+  {
+    "ro": "citeşti",
+    "ru": "читаешь",
+    "en": "you read"
+  },
+  {
+    "ro": "aceleaşi",
+    "ru": "те же",
+    "en": "the same"
+  },
+  {
+    "ro": "postul",
+    "ru": "пост",
+    "en": "the post"
+  },
+  {
+    "ro": "echipei",
+    "ru": "команды",
+    "en": "of the team"
+  },
+  {
+    "ro": "incercat",
+    "ru": "пытался",
+    "en": "tried"
+  },
+  {
+    "ro": "artă",
+    "ru": "искусство",
+    "en": "art"
+  },
+  {
+    "ro": "amintesti",
+    "ru": "вспоминаешь",
+    "en": "you remember"
+  },
+  {
+    "ro": "ocupată",
+    "ru": "занята",
+    "en": "busy"
+  },
+  {
+    "ro": "parca",
+    "ru": "как будто",
+    "en": "as if"
+  },
+  {
+    "ro": "golf",
+    "ru": "гольф",
+    "en": "golf"
+  },
+  {
+    "ro": "repet",
+    "ru": "повторяю",
+    "en": "I repeat"
+  },
+  {
+    "ro": "duş",
+    "ru": "душ",
+    "en": "shower"
+  },
+  {
+    "ro": "bilete",
+    "ru": "билеты",
+    "en": "tickets"
+  },
+  {
+    "ro": "puştiule",
+    "ru": "пацан",
+    "en": "kid"
+  },
+  {
+    "ro": "scrisoarea",
+    "ru": "письмо",
+    "en": "the letter"
+  },
+  {
+    "ro": "brusc",
+    "ru": "внезапно",
+    "en": "suddenly"
+  },
+  {
+    "ro": "poziţie",
+    "ru": "позиция",
+    "en": "position"
+  },
+  {
+    "ro": "puterile",
+    "ru": "силы",
+    "en": "powers"
+  },
+  {
+    "ro": "merita",
+    "ru": "заслуживать",
+    "en": "to deserve"
+  },
+  {
+    "ro": "credeai",
+    "ru": "думал",
+    "en": "you thought"
+  },
+  {
+    "ro": "puneţi",
+    "ru": "положите",
+    "en": "put (you plural)"
+  },
+  {
+    "ro": "ieşiţi",
+    "ru": "выйдите",
+    "en": "go out"
+  },
+  {
+    "ro": "soţiei",
+    "ru": "жены",
+    "en": "of the wife"
+  },
+  {
+    "ro": "uşoară",
+    "ru": "лёгкая",
+    "en": "light"
+  },
+  {
+    "ro": "bucuros",
+    "ru": "рад",
+    "en": "glad"
+  },
+  {
+    "ro": "găsiţi",
+    "ru": "находите",
+    "en": "you find"
+  },
+  {
+    "ro": "sabia",
+    "ru": "меч",
+    "en": "sword"
+  },
+  {
+    "ro": "costumul",
+    "ru": "костюм",
+    "en": "the suit"
+  },
+  {
+    "ro": "scop",
+    "ru": "цель",
+    "en": "goal"
+  },
+  {
+    "ro": "ieşire",
+    "ru": "выход",
+    "en": "exit"
+  },
+  {
+    "ro": "lucreze",
+    "ru": "работать",
+    "en": "to work"
+  },
+  {
+    "ro": "toaletă",
+    "ru": "туалет",
+    "en": "toilet"
+  },
+  {
+    "ro": "preţul",
+    "ru": "цена",
+    "en": "the price"
+  },
+  {
+    "ro": "vestea",
+    "ru": "новость",
+    "en": "the news"
+  },
+  {
+    "ro": "existe",
+    "ru": "существует",
+    "en": "exists"
+  },
+  {
+    "ro": "animalele",
+    "ru": "животные",
+    "en": "animals"
+  },
+  {
+    "ro": "jackie",
+    "ru": "Джеки",
+    "en": "Jackie"
+  },
+  {
+    "ro": "pisica",
+    "ru": "кошка",
+    "en": "cat"
+  },
+  {
+    "ro": "sticla",
+    "ru": "бутылка",
+    "en": "bottle"
+  },
+  {
+    "ro": "insulă",
+    "ru": "остров",
+    "en": "island"
+  },
+  {
+    "ro": "cursa",
+    "ru": "гонка",
+    "en": "race"
+  },
+  {
+    "ro": "ador",
+    "ru": "обожаю",
+    "en": "I adore"
+  },
+  {
+    "ro": "rezistă",
+    "ru": "сопротивляется",
+    "en": "resists"
+  },
+  {
+    "ro": "tabără",
+    "ru": "лагерь",
+    "en": "camp"
+  },
+  {
+    "ro": "no",
+    "ru": "нет",
+    "en": "no"
+  },
+  {
+    "ro": "pricepi",
+    "ru": "понимаешь",
+    "en": "you understand"
+  },
+  {
+    "ro": "etaj",
+    "ru": "этаж",
+    "en": "floor"
+  },
+  {
+    "ro": "cartier",
+    "ru": "район",
+    "en": "neighborhood"
+  },
+  {
+    "ro": "mandat",
+    "ru": "мандат",
+    "en": "warrant"
+  },
+  {
+    "ro": "tim",
+    "ru": "Тим",
+    "en": "Tim"
+  },
+  {
+    "ro": "nevasta",
+    "ru": "жена",
+    "en": "wife"
+  },
+  {
+    "ro": "revin",
+    "ru": "возвращаюсь",
+    "en": "I return"
+  },
+  {
+    "ro": "soldaţi",
+    "ru": "солдаты",
+    "en": "soldiers"
+  },
+  {
+    "ro": "visele",
+    "ru": "сны",
+    "en": "dreams"
+  },
+  {
+    "ro": "sfat",
+    "ru": "совет",
+    "en": "advice"
+  },
+  {
+    "ro": "visat",
+    "ru": "снилось",
+    "en": "dreamed"
+  },
+  {
+    "ro": "legate",
+    "ru": "связанные",
+    "en": "tied"
+  },
+  {
+    "ro": "vânătoare",
+    "ru": "охота",
+    "en": "hunt"
+  },
+  {
+    "ro": "recunoaşte",
+    "ru": "признаёт",
+    "en": "recognizes"
+  },
+  {
+    "ro": "china",
+    "ru": "Китай",
+    "en": "China"
+  },
+  {
+    "ro": "telefoane",
+    "ru": "телефоны",
+    "en": "phones"
+  },
+  {
+    "ro": "teribil",
+    "ru": "ужасный",
+    "en": "terrible"
+  },
+  {
+    "ro": "parker",
+    "ru": "Паркер",
+    "en": "Parker"
+  },
+  {
+    "ro": "ciocolată",
+    "ru": "шоколад",
+    "en": "chocolate"
+  },
+  {
+    "ro": "etajul",
+    "ru": "этаж",
+    "en": "the floor"
+  },
+  {
+    "ro": "cunoaştem",
+    "ru": "знаем",
+    "en": "we know"
+  },
+  {
+    "ro": "isus",
+    "ru": "Иисус",
+    "en": "Jesus"
+  },
+  {
+    "ro": "subiectul",
+    "ru": "тема",
+    "en": "the subject"
+  },
+  {
+    "ro": "ştiinţă",
+    "ru": "наука",
+    "en": "science"
+  },
+  {
+    "ro": "răi",
+    "ru": "злые",
+    "en": "evil"
+  },
+  {
+    "ro": "simtă",
+    "ru": "чувствует",
+    "en": "feels"
+  },
+  {
+    "ro": "vincent",
+    "ru": "Винсент",
+    "en": "Vincent"
+  },
+  {
+    "ro": "dreaptă",
+    "ru": "правая",
+    "en": "right"
+  },
+  {
+    "ro": "nathan",
+    "ru": "Натан",
+    "en": "Nathan"
+  },
+  {
+    "ro": "actele",
+    "ru": "документы",
+    "en": "documents"
+  },
+  {
+    "ro": "curajul",
+    "ru": "смелость",
+    "en": "courage"
+  },
+  {
+    "ro": "ascund",
+    "ru": "прячу",
+    "en": "I hide"
+  },
+  {
+    "ro": "jesse",
+    "ru": "Джесси",
+    "en": "Jesse"
+  },
+  {
+    "ro": "sally",
+    "ru": "Салли",
+    "en": "Sally"
+  },
+  {
+    "ro": "ceilalti",
+    "ru": "остальные",
+    "en": "the others"
+  },
+  {
+    "ro": "implor",
+    "ru": "умоляю",
+    "en": "I beg"
+  },
+  {
+    "ro": "adormit",
+    "ru": "уснул",
+    "en": "fell asleep"
+  },
+  {
+    "ro": "numarul",
+    "ru": "номер",
+    "en": "the number"
+  },
+  {
+    "ro": "cate",
+    "ru": "сколько",
+    "en": "how many"
+  },
+  {
+    "ro": "mobil",
+    "ru": "мобильный",
+    "en": "mobile"
+  },
+  {
+    "ro": "zău",
+    "ru": "честно",
+    "en": "honestly"
+  },
+  {
+    "ro": "forţă",
+    "ru": "сила",
+    "en": "force"
+  },
+  {
+    "ro": "tin",
+    "ru": "держу",
+    "en": "I hold"
+  },
+  {
+    "ro": "răspunzi",
+    "ru": "отвечаешь",
+    "en": "you answer"
+  },
+  {
+    "ro": "anului",
+    "ru": "года",
+    "en": "of the year"
+  },
+  {
+    "ro": "respectul",
+    "ru": "уважение",
+    "en": "respect"
+  },
+  {
+    "ro": "asigura",
+    "ru": "обеспечить",
+    "en": "to ensure"
+  },
+  {
+    "ro": "jones",
+    "ru": "Джонс",
+    "en": "Jones"
+  },
+  {
+    "ro": "man",
+    "ru": "мужчина",
+    "en": "man"
+  },
+  {
+    "ro": "iisus",
+    "ru": "Иисус",
+    "en": "Jesus"
+  },
+  {
+    "ro": "inventat",
+    "ru": "изобрёл",
+    "en": "invented"
+  },
+  {
+    "ro": "degetele",
+    "ru": "пальцы",
+    "en": "fingers"
+  },
+  {
+    "ro": "simtit",
+    "ru": "почувствовал",
+    "en": "felt"
+  },
+  {
+    "ro": "ciuda",
+    "ru": "вопреки",
+    "en": "despite"
+  },
+  {
+    "ro": "capcană",
+    "ru": "ловушка",
+    "en": "trap"
+  },
+  {
+    "ro": "salvezi",
+    "ru": "спасаешь",
+    "en": "you save"
+  },
+  {
+    "ro": "îndreaptă",
+    "ru": "направляется",
+    "en": "heads"
+  },
+  {
+    "ro": "puteți",
+    "ru": "можете",
+    "en": "you can"
+  },
+  {
+    "ro": "încercaţi",
+    "ru": "пытаетесь",
+    "en": "you try"
+  },
+  {
+    "ro": "treaz",
+    "ru": "бодрствующий",
+    "en": "awake"
+  },
+  {
+    "ro": "sentimente",
+    "ru": "чувства",
+    "en": "feelings"
+  },
+  {
+    "ro": "piatra",
+    "ru": "камень",
+    "en": "stone"
+  },
+  {
+    "ro": "decide",
+    "ru": "решает",
+    "en": "decides"
+  },
+  {
+    "ro": "intelegi",
+    "ru": "понимаешь",
+    "en": "you understand"
+  },
+  {
+    "ro": "deranja",
+    "ru": "беспокоить",
+    "en": "to bother"
+  },
+  {
+    "ro": "howard",
+    "ru": "Ховард",
+    "en": "Howard"
+  },
+  {
+    "ro": "haina",
+    "ru": "пальто",
+    "en": "coat"
+  },
+  {
+    "ro": "duminică",
+    "ru": "воскресенье",
+    "en": "Sunday"
+  },
+  {
+    "ro": "faza",
+    "ru": "фаза",
+    "en": "phase"
+  },
+  {
+    "ro": "aminti",
+    "ru": "вспоминать",
+    "en": "to remember"
+  },
+  {
+    "ro": "normală",
+    "ru": "нормальная",
+    "en": "normal"
+  },
+  {
+    "ro": "vizita",
+    "ru": "визит",
+    "en": "visit"
+  },
+  {
+    "ro": "cumpere",
+    "ru": "купить",
+    "en": "to buy"
+  },
+  {
+    "ro": "mănânce",
+    "ru": "поесть",
+    "en": "to eat"
+  },
+  {
+    "ro": "renunţ",
+    "ru": "отказываюсь",
+    "en": "I give up"
+  },
+  {
+    "ro": "plâng",
+    "ru": "плачу",
+    "en": "I cry"
+  },
+  {
+    "ro": "schimbul",
+    "ru": "смена",
+    "en": "shift"
+  },
+  {
+    "ro": "americani",
+    "ru": "американцы",
+    "en": "Americans"
+  },
+  {
+    "ro": "misca",
+    "ru": "двигаться",
+    "en": "to move"
+  },
+  {
+    "ro": "stati",
+    "ru": "остановитесь",
+    "en": "stop"
+  },
+  {
+    "ro": "baiat",
+    "ru": "мальчик",
+    "en": "boy"
+  },
+  {
+    "ro": "priceput",
+    "ru": "умелый",
+    "en": "skilled"
+  },
+  {
+    "ro": "despărţit",
+    "ru": "расстался",
+    "en": "broke up"
+  },
+  {
+    "ro": "ouă",
+    "ru": "яйца",
+    "en": "eggs"
+  },
+  {
+    "ro": "semne",
+    "ru": "знаки",
+    "en": "signs"
+  },
+  {
+    "ro": "cia",
+    "ru": "ЦРУ",
+    "en": "CIA"
+  },
+  {
+    "ro": "trezesc",
+    "ru": "просыпаюсь",
+    "en": "I wake up"
+  },
+  {
+    "ro": "ramas",
+    "ru": "остался",
+    "en": "remained"
+  },
+  {
+    "ro": "boala",
+    "ru": "болезнь",
+    "en": "disease"
+  },
+  {
+    "ro": "datele",
+    "ru": "данные",
+    "en": "data"
+  },
+  {
+    "ro": "proiect",
+    "ru": "проект",
+    "en": "project"
+  },
+  {
+    "ro": "fug",
+    "ru": "убегаю",
+    "en": "I run"
+  },
+  {
+    "ro": "puternice",
+    "ru": "сильные",
+    "en": "strong"
+  },
+  {
+    "ro": "chestiune",
+    "ru": "вопрос",
+    "en": "matter"
+  },
+  {
+    "ro": "închisă",
+    "ru": "закрытая",
+    "en": "closed"
+  },
+  {
+    "ro": "puțin",
+    "ru": "немного",
+    "en": "a little"
+  },
+  {
+    "ro": "chloe",
+    "ru": "Хлоя",
+    "en": "Chloe"
+  },
+  {
+    "ro": "ţinta",
+    "ru": "цель",
+    "en": "target"
+  },
+  {
+    "ro": "plângi",
+    "ru": "плачешь",
+    "en": "you cry"
+  },
+  {
+    "ro": "aceia",
+    "ru": "те",
+    "en": "those"
+  },
+  {
+    "ro": "cunosti",
+    "ru": "знаешь",
+    "en": "you know"
+  },
+  {
+    "ro": "memoria",
+    "ru": "память",
+    "en": "memory"
+  },
+  {
+    "ro": "curte",
+    "ru": "двор",
+    "en": "yard"
+  },
+  {
+    "ro": "jumatate",
+    "ru": "половина",
+    "en": "half"
+  },
+  {
+    "ro": "personale",
+    "ru": "личные",
+    "en": "personal"
+  },
+  {
+    "ro": "tyler",
+    "ru": "Тайлер",
+    "en": "Tyler"
+  },
+  {
+    "ro": "soluţie",
+    "ru": "решение",
+    "en": "solution"
+  },
+  {
+    "ro": "lovi",
+    "ru": "ударить",
+    "en": "to hit"
+  },
+  {
+    "ro": "vechiul",
+    "ru": "старый",
+    "en": "the old"
+  },
+  {
+    "ro": "curajos",
+    "ru": "смелый",
+    "en": "brave"
+  },
+  {
+    "ro": "primii",
+    "ru": "первые",
+    "en": "first"
+  },
+  {
+    "ro": "vegas",
+    "ru": "Вегас",
+    "en": "Vegas"
+  },
+  {
+    "ro": "molly",
+    "ru": "Молли",
+    "en": "Molly"
+  },
+  {
+    "ro": "prânzul",
+    "ru": "обед",
+    "en": "lunch"
+  },
+  {
+    "ro": "goală",
+    "ru": "пустая",
+    "en": "empty"
+  },
+  {
+    "ro": "ochiul",
+    "ru": "глаз",
+    "en": "the eye"
+  },
+  {
+    "ro": "hitler",
+    "ru": "Гитлер",
+    "en": "Hitler"
+  },
+  {
+    "ro": "presupune",
+    "ru": "предполагает",
+    "en": "assumes"
+  },
+  {
+    "ro": "firma",
+    "ru": "фирма",
+    "en": "company"
+  },
+  {
+    "ro": "libertatea",
+    "ru": "свобода",
+    "en": "freedom"
+  },
+  {
+    "ro": "cuminte",
+    "ru": "послушный",
+    "en": "well-behaved"
+  },
+  {
+    "ro": "doug",
+    "ru": "Даг",
+    "en": "Doug"
+  },
+  {
+    "ro": "teama",
+    "ru": "страх",
+    "en": "fear"
+  },
+  {
+    "ro": "preot",
+    "ru": "священник",
+    "en": "priest"
+  },
+  {
+    "ro": "domnişoara",
+    "ru": "девушка",
+    "en": "miss"
+  },
+  {
+    "ro": "viată",
+    "ru": "жизнь",
+    "en": "life"
+  },
+  {
+    "ro": "natura",
+    "ru": "природа",
+    "en": "nature"
+  },
+  {
+    "ro": "suporta",
+    "ru": "терпит",
+    "en": "endures"
+  },
+  {
+    "ro": "câştigi",
+    "ru": "выигрываешь",
+    "en": "you win"
+  },
+  {
+    "ro": "parcare",
+    "ru": "парковка",
+    "en": "parking"
+  },
+  {
+    "ro": "pâine",
+    "ru": "хлеб",
+    "en": "bread"
+  },
+  {
+    "ro": "fosta",
+    "ru": "бывшая",
+    "en": "ex"
+  },
+  {
+    "ro": "continuăm",
+    "ru": "продолжаем",
+    "en": "we continue"
+  },
+  {
+    "ro": "africa",
+    "ru": "Африка",
+    "en": "Africa"
+  },
+  {
+    "ro": "poporul",
+    "ru": "народ",
+    "en": "the people"
+  },
+  {
+    "ro": "charlotte",
+    "ru": "Шарлотта",
+    "en": "Charlotte"
+  },
+  {
+    "ro": "interviu",
+    "ru": "интервью",
+    "en": "interview"
+  },
+  {
+    "ro": "câini",
+    "ru": "собаки",
+    "en": "dogs"
+  },
+  {
+    "ro": "furios",
+    "ru": "яростный",
+    "en": "furious"
+  },
+  {
+    "ro": "totii",
+    "ru": "все",
+    "en": "all"
+  },
+  {
+    "ro": "generale",
+    "ru": "общие",
+    "en": "general"
+  },
+  {
+    "ro": "tratament",
+    "ru": "лечение",
+    "en": "treatment"
+  },
+  {
+    "ro": "speriată",
+    "ru": "испуганная",
+    "en": "scared"
+  },
+  {
+    "ro": "geniu",
+    "ru": "гений",
+    "en": "genius"
+  },
+  {
+    "ro": "pardon",
+    "ru": "простите",
+    "en": "pardon"
+  },
+  {
+    "ro": "langa",
+    "ru": "рядом",
+    "en": "next to"
+  },
+  {
+    "ro": "act",
+    "ru": "акт",
+    "en": "act"
+  },
+  {
+    "ro": "mut",
+    "ru": "немой",
+    "en": "mute"
+  },
+  {
+    "ro": "seful",
+    "ru": "шеф",
+    "en": "the boss"
+  },
+  {
+    "ro": "detectivul",
+    "ru": "детектив",
+    "en": "the detective"
+  },
+  {
+    "ro": "miliarde",
+    "ru": "миллиарды",
+    "en": "billions"
+  },
+  {
+    "ro": "zgomot",
+    "ru": "шум",
+    "en": "noise"
+  },
+  {
+    "ro": "minţile",
+    "ru": "умы",
+    "en": "minds"
+  },
+  {
+    "ro": "diferenţa",
+    "ru": "разница",
+    "en": "difference"
+  },
+  {
+    "ro": "ucigaşul",
+    "ru": "убийца",
+    "en": "the killer"
+  },
+  {
+    "ro": "preferat",
+    "ru": "любимый",
+    "en": "favorite"
+  },
+  {
+    "ro": "priveste",
+    "ru": "смотрит",
+    "en": "looks"
+  },
+  {
+    "ro": "veniti",
+    "ru": "приходите",
+    "en": "come"
+  },
+  {
+    "ro": "vieţi",
+    "ru": "жизни",
+    "en": "lives"
+  },
+  {
+    "ro": "roy",
+    "ru": "Рой",
+    "en": "Roy"
+  },
+  {
+    "ro": "aerul",
+    "ru": "воздух",
+    "en": "the air"
+  },
+  {
+    "ro": "dinţi",
+    "ru": "зубы",
+    "en": "teeth"
+  },
+  {
+    "ro": "suc",
+    "ru": "сок",
+    "en": "juice"
+  },
+  {
+    "ro": "recunoşti",
+    "ru": "узнаёшь",
+    "en": "recognize"
+  },
+  {
+    "ro": "treburile",
+    "ru": "дела",
+    "en": "tasks"
+  },
+  {
+    "ro": "park",
+    "ru": "парк",
+    "en": "park"
+  },
+  {
+    "ro": "străzi",
+    "ru": "улицы",
+    "en": "streets"
+  },
+  {
+    "ro": "nate",
+    "ru": "Нэйт",
+    "en": "Nate"
+  },
+  {
+    "ro": "colţ",
+    "ru": "угол",
+    "en": "corner"
+  },
+  {
+    "ro": "unitatea",
+    "ru": "подразделение",
+    "en": "unit"
+  },
+  {
+    "ro": "gen",
+    "ru": "тип",
+    "en": "type"
+  },
+  {
+    "ro": "helen",
+    "ru": "Хелен",
+    "en": "Helen"
+  },
+  {
+    "ro": "pachet",
+    "ru": "пакет",
+    "en": "package"
+  },
+  {
+    "ro": "mm",
+    "ru": "мм",
+    "en": "mm"
+  },
+  {
+    "ro": "nasol",
+    "ru": "неприятно",
+    "en": "bad"
+  },
+  {
+    "ro": "doc",
+    "ru": "док",
+    "en": "doc"
+  },
+  {
+    "ro": "terry",
+    "ru": "Терри",
+    "en": "Terry"
+  },
+  {
+    "ro": "greg",
+    "ru": "Грег",
+    "en": "Greg"
+  },
+  {
+    "ro": "sală",
+    "ru": "зал",
+    "en": "hall"
+  },
+  {
+    "ro": "ţineţi",
+    "ru": "держите",
+    "en": "hold"
+  },
+  {
+    "ro": "rai",
+    "ru": "рай",
+    "en": "heaven"
+  },
+  {
+    "ro": "fereastra",
+    "ru": "окно",
+    "en": "window"
+  },
+  {
+    "ro": "donna",
+    "ru": "Донна",
+    "en": "Donna"
+  },
+  {
+    "ro": "apărare",
+    "ru": "защита",
+    "en": "defense"
+  },
+  {
+    "ro": "dorinţa",
+    "ru": "желание",
+    "en": "wish"
+  },
+  {
+    "ro": "sfinte",
+    "ru": "святые",
+    "en": "saints"
+  },
+  {
+    "ro": "sigura",
+    "ru": "уверена",
+    "en": "sure"
+  },
+  {
+    "ro": "minciuni",
+    "ru": "лжи",
+    "en": "lies"
+  },
+  {
+    "ro": "renunţi",
+    "ru": "отказываешься",
+    "en": "you give up"
+  },
+  {
+    "ro": "măi",
+    "ru": "эй",
+    "en": "hey"
+  },
+  {
+    "ro": "scurtă",
+    "ru": "короткая",
+    "en": "short"
+  },
+  {
+    "ro": "vada",
+    "ru": "увидеть",
+    "en": "to see"
+  },
+  {
+    "ro": "păstrez",
+    "ru": "сохраняю",
+    "en": "I keep"
+  },
+  {
+    "ro": "gândeşte",
+    "ru": "думает",
+    "en": "thinks"
+  },
+  {
+    "ro": "val",
+    "ru": "волна",
+    "en": "wave"
+  },
+  {
+    "ro": "cade",
+    "ru": "падает",
+    "en": "falls"
+  },
+  {
+    "ro": "jaf",
+    "ru": "ограбление",
+    "en": "robbery"
+  },
+  {
+    "ro": "efect",
+    "ru": "эффект",
+    "en": "effect"
+  },
+  {
+    "ro": "aceeasi",
+    "ru": "та же",
+    "en": "the same"
+  },
+  {
+    "ro": "medicală",
+    "ru": "медицинская",
+    "en": "medical"
+  },
+  {
+    "ro": "magie",
+    "ru": "магия",
+    "en": "magic"
+  },
+  {
+    "ro": "indiciu",
+    "ru": "подсказка",
+    "en": "clue"
+  },
+  {
+    "ro": "termen",
+    "ru": "срок",
+    "en": "term"
+  },
+  {
+    "ro": "demult",
+    "ru": "давно",
+    "en": "long ago"
+  },
+  {
+    "ro": "rămâneţi",
+    "ru": "оставайтесь",
+    "en": "stay"
+  },
+  {
+    "ro": "grele",
+    "ru": "тяжёлые",
+    "en": "hard"
+  },
+  {
+    "ro": "india",
+    "ru": "Индия",
+    "en": "India"
+  },
+  {
+    "ro": "gasesc",
+    "ru": "нахожу",
+    "en": "I find"
+  },
+  {
+    "ro": "robin",
+    "ru": "Робин",
+    "en": "Robin"
+  },
+  {
+    "ro": "urgent",
+    "ru": "срочно",
+    "en": "urgent"
+  },
+  {
+    "ro": "privirea",
+    "ru": "взгляд",
+    "en": "look"
+  },
+  {
+    "ro": "merci",
+    "ru": "спасибо",
+    "en": "thanks"
+  },
+  {
+    "ro": "fetiţa",
+    "ru": "девочка",
+    "en": "little girl"
+  },
+  {
+    "ro": "pământului",
+    "ru": "земли",
+    "en": "of the Earth"
+  },
+  {
+    "ro": "transport",
+    "ru": "транспорт",
+    "en": "transport"
+  },
+  {
+    "ro": "mesaje",
+    "ru": "сообщения",
+    "en": "messages"
+  },
+  {
+    "ro": "proiectul",
+    "ru": "проект",
+    "en": "project"
+  },
+  {
+    "ro": "pod",
+    "ru": "мост",
+    "en": "bridge"
+  },
+  {
+    "ro": "incredere",
+    "ru": "доверие",
+    "en": "trust"
+  },
+  {
+    "ro": "astia",
+    "ru": "эти",
+    "en": "these"
+  },
+  {
+    "ro": "ross",
+    "ru": "Росс",
+    "en": "Ross"
+  },
+  {
+    "ro": "spirit",
+    "ru": "дух",
+    "en": "spirit"
+  },
+  {
+    "ro": "hotelul",
+    "ru": "отель",
+    "en": "the hotel"
+  },
+  {
+    "ro": "coboară",
+    "ru": "спускается",
+    "en": "goes down"
+  },
+  {
+    "ro": "destinul",
+    "ru": "судьба",
+    "en": "destiny"
+  },
+  {
+    "ro": "colegiu",
+    "ru": "колледж",
+    "en": "college"
+  },
+  {
+    "ro": "arati",
+    "ru": "выглядишь",
+    "en": "you look"
+  },
+  {
+    "ro": "muta",
+    "ru": "переехать",
+    "en": "to move"
+  },
+  {
+    "ro": "sugerez",
+    "ru": "предлагаю",
+    "en": "I suggest"
+  },
+  {
+    "ro": "mincinos",
+    "ru": "лжец",
+    "en": "liar"
+  },
+  {
+    "ro": "contract",
+    "ru": "контракт",
+    "en": "contract"
+  },
+  {
+    "ro": "personală",
+    "ru": "личная",
+    "en": "personal"
+  },
+  {
+    "ro": "multime",
+    "ru": "толпа",
+    "en": "crowd"
+  },
+  {
+    "ro": "călătoria",
+    "ru": "путешествие",
+    "en": "journey"
+  },
+  {
+    "ro": "confortabil",
+    "ru": "удобный",
+    "en": "comfortable"
+  },
+  {
+    "ro": "cunoaşteţi",
+    "ru": "знаете",
+    "en": "you know"
+  },
+  {
+    "ro": "protecţie",
+    "ru": "защита",
+    "en": "protection"
+  },
+  {
+    "ro": "brad",
+    "ru": "Брэд",
+    "en": "Brad"
+  },
+  {
+    "ro": "sexul",
+    "ru": "пол",
+    "en": "sex"
+  },
+  {
+    "ro": "legal",
+    "ru": "законный",
+    "en": "legal"
+  },
+  {
+    "ro": "informaţiile",
+    "ru": "информация",
+    "en": "information"
+  },
+  {
+    "ro": "ilegal",
+    "ru": "незаконный",
+    "en": "illegal"
+  },
+  {
+    "ro": "cafeaua",
+    "ru": "кофе",
+    "en": "coffee"
+  },
+  {
+    "ro": "băga",
+    "ru": "вставить",
+    "en": "insert"
+  },
+  {
+    "ro": "fix",
+    "ru": "точно",
+    "en": "exact"
+  },
+  {
+    "ro": "rezolv",
+    "ru": "решаю",
+    "en": "I solve"
+  },
+  {
+    "ro": "renunţa",
+    "ru": "отказаться",
+    "en": "to give up"
+  },
+  {
+    "ro": "primeşte",
+    "ru": "получает",
+    "en": "receives"
+  },
+  {
+    "ro": "acesti",
+    "ru": "эти",
+    "en": "these"
+  },
+  {
+    "ro": "eraţi",
+    "ru": "были",
+    "en": "you were"
+  },
+  {
+    "ro": "elizabeth",
+    "ru": "Элизабет",
+    "en": "Elizabeth"
+  },
+  {
+    "ro": "apară",
+    "ru": "защитить",
+    "en": "to defend"
+  },
+  {
+    "ro": "folosească",
+    "ru": "использует",
+    "en": "use"
+  },
+  {
+    "ro": "lupt",
+    "ru": "сражаюсь",
+    "en": "I fight"
+  },
+  {
+    "ro": "viteză",
+    "ru": "скорость",
+    "en": "speed"
+  },
+  {
+    "ro": "lemn",
+    "ru": "дерево",
+    "en": "wood"
+  },
+  {
+    "ro": "pilot",
+    "ru": "пилот",
+    "en": "pilot"
+  },
+  {
+    "ro": "barry",
+    "ru": "Барри",
+    "en": "Barry"
+  },
+  {
+    "ro": "căutam",
+    "ru": "искал",
+    "en": "was looking for"
+  },
+  {
+    "ro": "rick",
+    "ru": "Рик",
+    "en": "Rick"
+  },
+  {
+    "ro": "încrederea",
+    "ru": "доверие",
+    "en": "the trust"
+  },
+  {
+    "ro": "mac",
+    "ru": "Мак",
+    "en": "Mac"
+  },
+  {
+    "ro": "şanse",
+    "ru": "шансы",
+    "en": "chances"
+  },
+  {
+    "ro": "v",
+    "ru": "Ви",
+    "en": "V"
+  },
+  {
+    "ro": "angeles",
+    "ru": "Анджелес",
+    "en": "Angeles"
+  },
+  {
+    "ro": "culoarea",
+    "ru": "цвет",
+    "en": "color"
+  },
+  {
+    "ro": "atentă",
+    "ru": "внимательная",
+    "en": "attentive"
+  },
+  {
+    "ro": "următoare",
+    "ru": "следующая",
+    "en": "next"
+  },
+  {
+    "ro": "apropia",
+    "ru": "приблизиться",
+    "en": "to approach"
+  },
+  {
+    "ro": "răpit",
+    "ru": "похищен",
+    "en": "kidnapped"
+  },
+  {
+    "ro": "dispară",
+    "ru": "исчезнет",
+    "en": "disappear"
+  },
+  {
+    "ro": "adn",
+    "ru": "ДНК",
+    "en": "DNA"
+  },
+  {
+    "ro": "anne",
+    "ru": "Анна",
+    "en": "Anne"
+  },
+  {
+    "ro": "autobuzul",
+    "ru": "автобус (определённый артикль)",
+    "en": "the bus"
+  },
+  {
+    "ro": "străin",
+    "ru": "иностранный, чужой",
+    "en": "foreign, stranger"
+  },
+  {
+    "ro": "îmbrăcat",
+    "ru": "одетый",
+    "en": "dressed"
+  },
+  {
+    "ro": "opriţi",
+    "ru": "останавливайте (команда)",
+    "en": "stop (plural imperative)"
+  },
+  {
+    "ro": "urcat",
+    "ru": "взошёл, поднялся",
+    "en": "climbed, got up"
+  },
+  {
+    "ro": "potrivită",
+    "ru": "подходящая, соответствующая",
+    "en": "suitable, appropriate"
+  },
+  {
+    "ro": "posibilitatea",
+    "ru": "возможность",
+    "en": "possibility"
+  },
+  {
+    "ro": "gaura",
+    "ru": "отверстие, дыра",
+    "en": "hole"
+  },
+  {
+    "ro": "gelos",
+    "ru": "ревнивый, завистливый",
+    "en": "jealous"
+  },
+  {
+    "ro": "poveşti",
+    "ru": "истории",
+    "en": "stories"
+  },
+  {
+    "ro": "medical",
+    "ru": "медицинский",
+    "en": "medical"
+  },
+  {
+    "ro": "isuse",
+    "ru": "Иисус (звательная форма)",
+    "en": "Jesus (vocative)"
+  },
+  {
+    "ro": "diferită",
+    "ru": "разная, отличная",
+    "en": "different"
+  },
+  {
+    "ro": "dumneata",
+    "ru": "ты (вежливо, старое обращение)",
+    "en": "you (archaic/formal)"
+  },
+  {
+    "ro": "neapărat",
+    "ru": "обязательно, непременно",
+    "en": "necessarily, absolutely"
+  },
+  {
+    "ro": "viața",
+    "ru": "жизнь",
+    "en": "life"
+  },
+  {
+    "ro": "ofertă",
+    "ru": "предложение",
+    "en": "offer"
+  },
+  {
+    "ro": "derek",
+    "ru": "Дерек (имя)",
+    "en": "Derek"
+  },
+  {
+    "ro": "arat",
+    "ru": "я показываю; выгляжу",
+    "en": "I show; I look"
+  },
+  {
+    "ro": "îndrăzneşti",
+    "ru": "ты смеешься, осмеливаешься",
+    "en": "you dare"
+  },
+  {
+    "ro": "supravieţui",
+    "ru": "выжить",
+    "en": "to survive"
+  },
+  {
+    "ro": "proprietarul",
+    "ru": "владелец",
+    "en": "the owner"
+  },
+  {
+    "ro": "uau",
+    "ru": "вау",
+    "en": "wow"
+  },
+  {
+    "ro": "întregul",
+    "ru": "целый, весь",
+    "en": "the whole"
+  },
+  {
+    "ro": "vedeti",
+    "ru": "видите (вы)",
+    "en": "you see"
+  },
+  {
+    "ro": "atingi",
+    "ru": "касаться, прикасаться",
+    "en": "to touch"
+  },
+  {
+    "ro": "sursa",
+    "ru": "источник",
+    "en": "the source"
+  },
+  {
+    "ro": "cuţit",
+    "ru": "нож",
+    "en": "knife"
+  },
+  {
+    "ro": "meciul",
+    "ru": "матч, игра",
+    "en": "the match"
+  },
+  {
+    "ro": "dispoziţie",
+    "ru": "настроение",
+    "en": "mood"
+  },
+  {
+    "ro": "ţintă",
+    "ru": "цель, мишень",
+    "en": "target"
+  },
+  {
+    "ro": "obligat",
+    "ru": "вынужденный, обязанный",
+    "en": "obliged"
+  },
+  {
+    "ro": "dator",
+    "ru": "должный; должен (кому‑то)",
+    "en": "due; indebted"
+  },
+  {
+    "ro": "dublu",
+    "ru": "двойной",
+    "en": "double"
+  },
+  {
+    "ro": "datorez",
+    "ru": "я должен (кому‑то)",
+    "en": "I owe"
+  },
+  {
+    "ro": "căci",
+    "ru": "ибо, потому что",
+    "en": "for, because"
+  },
+  {
+    "ro": "whoa",
+    "ru": "воу (удивление или остановка)",
+    "en": "whoa"
+  },
+  {
+    "ro": "moale",
+    "ru": "мягкий",
+    "en": "soft"
+  },
+  {
+    "ro": "imaginez",
+    "ru": "я представляю",
+    "en": "I imagine"
+  },
+  {
+    "ro": "considerare",
+    "ru": "внимание; рассмотрение",
+    "en": "consideration"
+  },
+  {
+    "ro": "strâns",
+    "ru": "плотно; тесно",
+    "en": "tight"
+  },
+  {
+    "ro": "secretă",
+    "ru": "секретная",
+    "en": "secret (f.)"
+  },
+  {
+    "ro": "încheiat",
+    "ru": "законченный; завершённый",
+    "en": "concluded, finished"
+  },
+  {
+    "ro": "îngrijorată",
+    "ru": "обеспокоенная",
+    "en": "worried (f.)"
+  },
+  {
+    "ro": "jordan",
+    "ru": "Джордан (имя)",
+    "en": "Jordan"
+  },
+  {
+    "ro": "fermă",
+    "ru": "ферма",
+    "en": "farm"
+  },
+  {
+    "ro": "prezenţa",
+    "ru": "присутствие",
+    "en": "presence"
+  },
+  {
+    "ro": "conta",
+    "ru": "счет; имеет значение (он/оно считает)",
+    "en": "account; counts"
+  },
+  {
+    "ro": "supravieţuit",
+    "ru": "выжил",
+    "en": "survived"
+  },
+  {
+    "ro": "cânt",
+    "ru": "я пою",
+    "en": "I sing"
+  },
+  {
+    "ro": "urmăreşte",
+    "ru": "следит, преследует",
+    "en": "he/she/it follows"
+  },
+  {
+    "ro": "katie",
+    "ru": "Кэти (имя)",
+    "en": "Katie"
+  },
+  {
+    "ro": "norocoasă",
+    "ru": "удачливая (жен.)",
+    "en": "lucky (f.)"
+  },
+  {
+    "ro": "imagini",
+    "ru": "изображения",
+    "en": "images"
+  },
+  {
+    "ro": "ziar",
+    "ru": "газета",
+    "en": "newspaper"
+  },
+  {
+    "ro": "marie",
+    "ru": "Мария",
+    "en": "Marie"
+  },
+  {
+    "ro": "local",
+    "ru": "местный",
+    "en": "local"
+  },
+  {
+    "ro": "adăpost",
+    "ru": "убежище, приют",
+    "en": "shelter"
+  },
+  {
+    "ro": "păstrat",
+    "ru": "сохранённый",
+    "en": "preserved"
+  },
+  {
+    "ro": "condamnat",
+    "ru": "осуждённый",
+    "en": "condemned"
+  },
+  {
+    "ro": "prostiile",
+    "ru": "глупости",
+    "en": "stupidities, nonsense"
+  },
+  {
+    "ro": "deschizi",
+    "ru": "ты открываешь",
+    "en": "you open"
+  },
+  {
+    "ro": "king",
+    "ru": "король",
+    "en": "king"
+  },
+  {
+    "ro": "jamie",
+    "ru": "Джейми (имя)",
+    "en": "Jamie"
+  },
+  {
+    "ro": "justin",
+    "ru": "Джастин (имя)",
+    "en": "Justin"
+  },
+  {
+    "ro": "vie",
+    "ru": "живая",
+    "en": "alive"
+  },
+  {
+    "ro": "presa",
+    "ru": "пресса",
+    "en": "press"
+  },
+  {
+    "ro": "nostri",
+    "ru": "наш(и)",
+    "en": "ours"
+  },
+  {
+    "ro": "direcţia",
+    "ru": "направление",
+    "en": "direction"
+  },
+  {
+    "ro": "presiune",
+    "ru": "давление",
+    "en": "pressure"
+  },
+  {
+    "ro": "nave",
+    "ru": "корабли",
+    "en": "ships"
+  },
+  {
+    "ro": "trageţi",
+    "ru": "тяните; стреляете (вы)",
+    "en": "pull; you shoot"
+  },
+  {
+    "ro": "degeaba",
+    "ru": "зря, напрасно",
+    "en": "in vain"
+  },
+  {
+    "ro": "oliver",
+    "ru": "Оливер (имя)",
+    "en": "Oliver"
+  },
+  {
+    "ro": "antrenor",
+    "ru": "тренер",
+    "en": "coach"
+  },
+  {
+    "ro": "deocamdată",
+    "ru": "пока что",
+    "en": "for now"
+  },
+  {
+    "ro": "banda",
+    "ru": "лента; группа",
+    "en": "tape; band"
+  },
+  {
+    "ro": "fantomă",
+    "ru": "привидение",
+    "en": "ghost"
+  },
+  {
+    "ro": "engleză",
+    "ru": "английский (язык)",
+    "en": "English"
+  },
+  {
+    "ro": "atentie",
+    "ru": "внимание",
+    "en": "attention"
+  },
+  {
+    "ro": "brânză",
+    "ru": "сыр",
+    "en": "cheese"
+  },
+  {
+    "ro": "pierdere",
+    "ru": "потеря",
+    "en": "loss"
+  },
+  {
+    "ro": "comandante",
+    "ru": "командир (жен.)",
+    "en": "commander (female)"
+  },
+  {
+    "ro": "legii",
+    "ru": "законы",
+    "en": "laws"
+  },
+  {
+    "ro": "audă",
+    "ru": "приказывай слушать; слушай",
+    "en": "hear! (imperative)"
+  },
+  {
+    "ro": "incearca",
+    "ru": "попробуй",
+    "en": "try"
+  },
+  {
+    "ro": "my",
+    "ru": "мой",
+    "en": "my"
+  },
+  {
+    "ro": "stupid",
+    "ru": "глупый",
+    "en": "stupid"
+  },
+  {
+    "ro": "stil",
+    "ru": "стиль",
+    "en": "style"
+  },
+  {
+    "ro": "îți",
+    "ru": "тебе (тебе даю…)",
+    "en": "you (indirect object)"
+  },
+  {
+    "ro": "rol",
+    "ru": "роль",
+    "en": "role"
+  },
+  {
+    "ro": "curată",
+    "ru": "чистая",
+    "en": "clean"
+  },
+  {
+    "ro": "salutare",
+    "ru": "приветствие",
+    "en": "greeting"
+  },
+  {
+    "ro": "următoarele",
+    "ru": "следующие",
+    "en": "the following"
+  },
+  {
+    "ro": "computer",
+    "ru": "компьютер",
+    "en": "computer"
+  },
+  {
+    "ro": "fiicei",
+    "ru": "дочери (дательный падеж)",
+    "en": "to the daughter"
+  },
+  {
+    "ro": "salvare",
+    "ru": "спасение",
+    "en": "rescue"
+  },
+  {
+    "ro": "capătul",
+    "ru": "конец",
+    "en": "the end"
+  },
+  {
+    "ro": "proba",
+    "ru": "испытание; образец",
+    "en": "test; sample"
+  },
+  {
+    "ro": "răbdare",
+    "ru": "терпение",  
+    "en": "patience"
+  },
+  {
+    "ro": "îndată",
+    "ru": "немедленно",
+    "en": "immediately"
+  },
+  {
+    "ro": "ameninţare",
+    "ru": "угроза",
+    "en": "threat"
+  },
+  {
+    "ro": "vreunul",
+    "ru": "кто‑либо из (муж.)",
+    "en": "any one (masc.)"
+  },
+  {
+    "ro": "comandat",
+    "ru": "приказал; заказал",
+    "en": "commanded; ordered"
+  },
+  {
+    "ro": "anterioare",
+    "ru": "предыдущие",
+    "en": "previous"
+  },
+  {
+    "ro": "tragă",
+    "ru": "стреляет; тянет",
+    "en": "he/she shoots; pulls"
+  },
+  {
+    "ro": "oricât",
+    "ru": "сколько бы ни",
+    "en": "however much"
+  },
+  {
+    "ro": "împinge",
+    "ru": "толкать",
+    "en": "to push"
+  },
+  {
+    "ro": "cadă",
+    "ru": "ванна",
+    "en": "bathtub"
+  },
+  {
+    "ro": "maestre",
+    "ru": "маэстро (обращение)",
+    "en": "maestro"
+  },
+  {
+    "ro": "roman",
+    "ru": "роман",
+    "en": "novel"
+  },
+  {
+    "ro": "nota",
+    "ru": "оценка; заметка",
+    "en": "grade; note"
+  },
+  {
+    "ro": "gras",
+    "ru": "толстый; жирный",
+    "en": "fat"
+  },
+  {
+    "ro": "buzunar",
+    "ru": "карман",
+    "en": "pocket"
+  },
+  {
+    "ro": "pierderea",
+    "ru": "потеря",
+    "en": "the loss"
+  },
+  {
+    "ro": "lord",
+    "ru": "лорд",
+    "en": "lord"
+  },
+  {
+    "ro": "kilometri",
+    "ru": "километры",
+    "en": "kilometers"
+  },
+  {
+    "ro": "dezamăgit",
+    "ru": "разочарованный",
+    "en": "disappointed"
+  },
+  {
+    "ro": "tina",
+    "ru": "Тина (имя)",
+    "en": "Tina"
+  },
+  {
+    "ro": "lucas",
+    "ru": "Лукас (имя)",
+    "en": "Lucas"
+  },
+  {
+    "ro": "companiei",
+    "ru": "компании (родительный падеж)",
+    "en": "of the company"
+  },
+  {
+    "ro": "lt",
+    "ru": "л-т (сокращение от лейтенант)",
+    "en": "Lt. (lieutenant)"
+  },
+  {
+    "ro": "miracol",
+    "ru": "чудо",
+    "en": "miracle"
+  },
+  {
+    "ro": "ie",
+    "ru": "вышиванка (традиционная блуза)",
+    "en": "ie (Romanian blouse)"
+  },
+  {
+    "ro": "andrew",
+    "ru": "Эндрю (имя)",
+    "en": "Andrew"
+  },
+  {
+    "ro": "vas",
+    "ru": "сосуд; корабль",
+    "en": "vessel"
+  },
+  {
+    "ro": "romantic",
+    "ru": "романтический",
+    "en": "romantic"
+  },
+  {
+    "ro": "arta",
+    "ru": "искусство",
+    "en": "art"
+  },
+  {
+    "ro": "puternici",
+    "ru": "сильные (муж. или м.р. мн.)",
+    "en": "strong (pl.)"
+  },
+  {
+    "ro": "cerul",
+    "ru": "небо",
+    "en": "the sky"
+  },
+  {
+    "ro": "teatru",
+    "ru": "театр",
+    "en": "theatre"
   }
 
 ]
